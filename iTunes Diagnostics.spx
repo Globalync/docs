@@ -1,0 +1,2770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>_dataType</key>
+		<string>SPHardwareDataType</string>
+		<key>_detailLevel</key>
+		<string>-1</string>
+		<key>_items</key>
+		<array>
+			<dict>
+				<key>_name</key>
+				<string>hardware_overview</string>
+				<key>machine_model</key>
+				<string>OptiPlex 790</string>
+				<key>number_processors</key>
+				<integer>4</integer>
+				<key>physical_memory</key>
+				<string>8544772096</string>
+				<key>platform_manufacturer</key>
+				<string>Dell Inc.</string>
+				<key>serial_number</key>
+				<string>FFD31F0C544C89C2</string>
+			</dict>
+		</array>
+		<key>_properties</key>
+		<dict/>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:34Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPPlatformReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>_dataType</key>
+		<string>SPParallelATADataType</string>
+		<key>_detailLevel</key>
+		<string>-1</string>
+		<key>_items</key>
+		<array>
+			<dict>
+				<key>_items</key>
+				<array>
+					<dict>
+						<key>Target</key>
+						<integer>0</integer>
+						<key>_name</key>
+						<string>HL-DT-ST DVD+-RW GT50N</string>
+						<key>device_model</key>
+						<string>HL-DT-ST DVD+-RW GT50N</string>
+						<key>device_revision</key>
+						<string>A101</string>
+						<key>mount_point</key>
+						<string>D:</string>
+						<key>spata_bus</key>
+						<integer>1</integer>
+						<key>spata_unit_number</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>Target</key>
+						<integer>0</integer>
+						<key>_name</key>
+						<string>TOSHIBA External USB 3.0 USB Device</string>
+						<key>device_model</key>
+						<string>TOSHIBA External USB 3.0 USB Device</string>
+						<key>device_revision</key>
+						<string>5438</string>
+						<key>device_serial</key>
+						<string>20150120031130</string>
+						<key>size</key>
+						<string>1000.20 GB</string>
+						<key>spata_bus</key>
+						<integer>0</integer>
+						<key>spata_unit_number</key>
+						<integer>0</integer>
+						<key>volumes</key>
+						<array>
+							<dict>
+								<key>_name</key>
+								<string>TOSHIBA EXT</string>
+								<key>file_system</key>
+								<string>NTFS</string>
+								<key>free_space</key>
+								<string>883.18 GB</string>
+								<key>mount_point</key>
+								<string>G:</string>
+								<key>size</key>
+								<string>1000.20 GB</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>Target</key>
+						<integer>0</integer>
+						<key>_name</key>
+						<string>WDC WD10EAVS-00D7B1</string>
+						<key>device_model</key>
+						<string>WDC WD10EAVS-00D7B1</string>
+						<key>device_revision</key>
+						<string>01.01A01</string>
+						<key>device_serial</key>
+						<string>     WD-WCAU48216801</string>
+						<key>size</key>
+						<string>1000.20 GB</string>
+						<key>spata_bus</key>
+						<integer>0</integer>
+						<key>spata_unit_number</key>
+						<integer>0</integer>
+						<key>volumes</key>
+						<array>
+							<dict>
+								<key>_name</key>
+								<string>Local Disk</string>
+								<key>file_system</key>
+								<string>NTFS</string>
+								<key>free_space</key>
+								<string>447.86 GB</string>
+								<key>mount_point</key>
+								<string>C:</string>
+								<key>size</key>
+								<string>998.57 GB</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+				<key>_name</key>
+				<string>spata_ata_bus</string>
+			</dict>
+		</array>
+		<key>_parentDataType</key>
+		<string>SPHardwareDataType</string>
+		<key>_properties</key>
+		<dict>
+			<key>_name</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_isOutlineColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>0</string>
+			</dict>
+			<key>device_model</key>
+			<dict>
+				<key>_order</key>
+				<string>42</string>
+			</dict>
+			<key>device_revision</key>
+			<dict>
+				<key>_order</key>
+				<string>44</string>
+			</dict>
+			<key>device_serial</key>
+			<dict>
+				<key>_order</key>
+				<string>46</string>
+			</dict>
+			<key>spata_bus</key>
+			<dict>
+				<key>_order</key>
+				<string>22</string>
+			</dict>
+			<key>spata_device-id</key>
+			<dict>
+				<key>_order</key>
+				<string>30</string>
+			</dict>
+			<key>spata_name</key>
+			<dict>
+				<key>_order</key>
+				<string>20</string>
+			</dict>
+			<key>spata_protocol</key>
+			<dict>
+				<key>_order</key>
+				<string>100</string>
+			</dict>
+			<key>spata_revision-id</key>
+			<dict>
+				<key>_order</key>
+				<string>32</string>
+			</dict>
+			<key>spata_rom-revision</key>
+			<dict>
+				<key>_order</key>
+				<string>26</string>
+			</dict>
+			<key>spata_slot_name</key>
+			<dict>
+				<key>_order</key>
+				<string>24</string>
+			</dict>
+			<key>spata_socket_type</key>
+			<dict>
+				<key>_order</key>
+				<string>120</string>
+			</dict>
+			<key>spata_unit_number</key>
+			<dict>
+				<key>_order</key>
+				<string>110</string>
+			</dict>
+			<key>spata_vendor-id</key>
+			<dict>
+				<key>_order</key>
+				<string>28</string>
+			</dict>
+		</dict>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:35Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPParallelATAReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>_dataType</key>
+		<string>SPUSBDataType</string>
+		<key>_detailLevel</key>
+		<string>-1</string>
+		<key>_items</key>
+		<array>
+			<dict>
+				<key>Description</key>
+				<string>Intel(R) 6 Series/C200 Series Chipset Family USB Enhanced Host Controller - 1C2D</string>
+				<key>_items</key>
+				<array>
+					<dict>
+						<key>Description</key>
+						<string>Generic USB Hub</string>
+						<key>_name</key>
+						<string>Generic USB Hub</string>
+						<key>product_id</key>
+						<string>0024</string>
+						<key>vendor_id</key>
+						<string>8087</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>USB Mass Storage Device</string>
+						<key>_name</key>
+						<string>USB Mass Storage Device</string>
+						<key>product_id</key>
+						<string>A208</string>
+						<key>vendor_id</key>
+						<string>0480</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Disk drive</string>
+						<key>_name</key>
+						<string>TOSHIBA External USB 3.0 USB Device</string>
+						<key>bcd_device</key>
+						<string>5438</string>
+						<key>vendor_id</key>
+						<string>TOSHIBA</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Microsoft Mouse and Keyboard Detection Driver (USB)</string>
+						<key>_name</key>
+						<string>Microsoft Mouse and Keyboard Detection Driver (USB)</string>
+						<key>product_id</key>
+						<string>0745</string>
+						<key>vendor_id</key>
+						<string>045E</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Microsoft Hardware USB Keyboard</string>
+						<key>_name</key>
+						<string>Microsoft Hardware USB Keyboard</string>
+						<key>product_id</key>
+						<string>0745</string>
+						<key>vendor_id</key>
+						<string>045E</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Wireless Keyboard Filter Device</string>
+						<key>_name</key>
+						<string>Wireless Keyboard Filter Device</string>
+						<key>product_id</key>
+						<string>0745</string>
+						<key>vendor_id</key>
+						<string>045E</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Wireless Device</string>
+						<key>_name</key>
+						<string>Wireless Device</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Microsoft Hardware USB Mouse</string>
+						<key>_name</key>
+						<string>Microsoft Hardware USB Mouse</string>
+						<key>product_id</key>
+						<string>0745</string>
+						<key>vendor_id</key>
+						<string>045E</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>HID-compliant mouse</string>
+						<key>_name</key>
+						<string>HID-compliant mouse</string>
+						<key>product_id</key>
+						<string>0745</string>
+						<key>vendor_id</key>
+						<string>045E</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>HID-compliant consumer control device</string>
+						<key>_name</key>
+						<string>HID-compliant consumer control device</string>
+						<key>product_id</key>
+						<string>0745</string>
+						<key>vendor_id</key>
+						<string>045E</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>USB Input Device</string>
+						<key>_name</key>
+						<string>USB Input Device</string>
+						<key>product_id</key>
+						<string>0745</string>
+						<key>vendor_id</key>
+						<string>045E</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>HID-compliant consumer control device</string>
+						<key>_name</key>
+						<string>HID-compliant consumer control device</string>
+						<key>product_id</key>
+						<string>0745</string>
+						<key>vendor_id</key>
+						<string>045E</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>HID-compliant consumer control device</string>
+						<key>_name</key>
+						<string>HID-compliant consumer control device</string>
+						<key>product_id</key>
+						<string>0745</string>
+						<key>vendor_id</key>
+						<string>045E</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>HID-compliant vendor-defined device</string>
+						<key>_name</key>
+						<string>HID-compliant vendor-defined device</string>
+						<key>product_id</key>
+						<string>0745</string>
+						<key>vendor_id</key>
+						<string>045E</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>HID-compliant system controller</string>
+						<key>_name</key>
+						<string>HID-compliant system controller</string>
+						<key>product_id</key>
+						<string>0745</string>
+						<key>vendor_id</key>
+						<string>045E</string>
+					</dict>
+				</array>
+				<key>_name</key>
+				<string>USB High-Speed Bus</string>
+				<key>pci_device</key>
+				<string>1C2D</string>
+				<key>pci_revision</key>
+				<string>04</string>
+				<key>pci_vendor</key>
+				<string>8086</string>
+			</dict>
+			<dict>
+				<key>Description</key>
+				<string>Intel(R) 6 Series/C200 Series Chipset Family USB Enhanced Host Controller - 1C26</string>
+				<key>_items</key>
+				<array>
+					<dict>
+						<key>Description</key>
+						<string>Generic USB Hub</string>
+						<key>_name</key>
+						<string>Generic USB Hub</string>
+						<key>product_id</key>
+						<string>0024</string>
+						<key>vendor_id</key>
+						<string>8087</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>USB Composite Device</string>
+						<key>_name</key>
+						<string>USB Composite Device</string>
+						<key>product_id</key>
+						<string>58BB</string>
+						<key>vendor_id</key>
+						<string>0BDA</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>USB Video Device</string>
+						<key>_name</key>
+						<string>FULL HD 1080P Webcam</string>
+						<key>product_id</key>
+						<string>58BB</string>
+						<key>vendor_id</key>
+						<string>0BDA</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>USB Audio Device</string>
+						<key>_name</key>
+						<string>Realtek USB2.0 MIC</string>
+						<key>product_id</key>
+						<string>58BB</string>
+						<key>vendor_id</key>
+						<string>0BDA</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Audio Endpoint</string>
+						<key>_name</key>
+						<string>Microphone (Realtek USB2.0 MIC)</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>USB Composite Device</string>
+						<key>_name</key>
+						<string>USB Composite Device</string>
+						<key>product_id</key>
+						<string>0020</string>
+						<key>vendor_id</key>
+						<string>04CA</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>USB Input Device</string>
+						<key>_name</key>
+						<string>USB Input Device</string>
+						<key>product_id</key>
+						<string>0020</string>
+						<key>vendor_id</key>
+						<string>04CA</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>HID Keyboard Device</string>
+						<key>_name</key>
+						<string>HID Keyboard Device</string>
+						<key>product_id</key>
+						<string>0020</string>
+						<key>vendor_id</key>
+						<string>04CA</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>USB Input Device</string>
+						<key>_name</key>
+						<string>USB Input Device</string>
+						<key>product_id</key>
+						<string>0020</string>
+						<key>vendor_id</key>
+						<string>04CA</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>HID-compliant system controller</string>
+						<key>_name</key>
+						<string>HID-compliant system controller</string>
+						<key>product_id</key>
+						<string>0020</string>
+						<key>vendor_id</key>
+						<string>04CA</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>HID-compliant consumer control device</string>
+						<key>_name</key>
+						<string>HID-compliant consumer control device</string>
+						<key>product_id</key>
+						<string>0020</string>
+						<key>vendor_id</key>
+						<string>04CA</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Apple Mobile Device USB Driver</string>
+						<key>_name</key>
+						<string>Apple Mobile Device USB Driver</string>
+						<key>product_id</key>
+						<string>12A8</string>
+						<key>vendor_id</key>
+						<string>05AC</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Apple iPhone</string>
+						<key>_name</key>
+						<string>Apple iPhone</string>
+						<key>product_id</key>
+						<string>12A8</string>
+						<key>vendor_id</key>
+						<string>05AC</string>
+					</dict>
+				</array>
+				<key>_name</key>
+				<string>USB High-Speed Bus</string>
+				<key>pci_device</key>
+				<string>1C26</string>
+				<key>pci_revision</key>
+				<string>04</string>
+				<key>pci_vendor</key>
+				<string>8086</string>
+			</dict>
+		</array>
+		<key>_parentDataType</key>
+		<string>SPHardwareDataType</string>
+		<key>_properties</key>
+		<dict>
+			<key>_name</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_isOutlineColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>0</string>
+			</dict>
+			<key>bsd_name</key>
+			<dict>
+				<key>_order</key>
+				<string>42</string>
+			</dict>
+			<key>detachable_drive</key>
+			<dict>
+				<key>_order</key>
+				<string>39</string>
+			</dict>
+			<key>device_manufacturer</key>
+			<dict>
+				<key>_order</key>
+				<string>20</string>
+			</dict>
+			<key>device_model</key>
+			<dict>
+				<key>_order</key>
+				<string>22</string>
+			</dict>
+			<key>device_revision</key>
+			<dict>
+				<key>_order</key>
+				<string>24</string>
+			</dict>
+			<key>device_serial</key>
+			<dict>
+				<key>_order</key>
+				<string>26</string>
+			</dict>
+		</dict>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:35Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPUSBReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>_dataType</key>
+		<string>SPDisplaysDataType</string>
+		<key>_detailLevel</key>
+		<string>-1</string>
+		<key>_items</key>
+		<array>
+			<dict>
+				<key>_name</key>
+				<string>AMD Radeon HD 5450</string>
+				<key>spdisplays_depth</key>
+				<integer>32</integer>
+				<key>spdisplays_device-id</key>
+				<string>VideoController1</string>
+				<key>spdisplays_vram</key>
+				<integer>536870912</integer>
+				<key>sppci_model</key>
+				<string>AMD Radeon HD 5450</string>
+			</dict>
+			<dict>
+				<key>LG 22MB65(Digital)</key>
+				<dict/>
+				<key>_name</key>
+				<string>spdisplays_ndrvs</string>
+			</dict>
+		</array>
+		<key>_parentDataType</key>
+		<string>SPHardwareDataType</string>
+		<key>_properties</key>
+		<dict>
+			<key>_name</key>
+			<dict>
+				<key>_order</key>
+				<string>0</string>
+			</dict>
+			<key>spdisplays_depth</key>
+			<dict>
+				<key>_order</key>
+				<string>150</string>
+			</dict>
+			<key>spdisplays_device-id</key>
+			<dict>
+				<key>_order</key>
+				<string>165</string>
+			</dict>
+			<key>spdisplays_resolution</key>
+			<dict>
+				<key>_order</key>
+				<string>145</string>
+			</dict>
+			<key>spdisplays_vram</key>
+			<dict>
+				<key>_order</key>
+				<string>135</string>
+			</dict>
+			<key>sppci_device-id</key>
+			<dict>
+				<key>_order</key>
+				<string>50</string>
+			</dict>
+			<key>sppci_model</key>
+			<dict>
+				<key>_order</key>
+				<string>1</string>
+			</dict>
+			<key>sppci_name</key>
+			<dict>
+				<key>_order</key>
+				<string>10</string>
+			</dict>
+		</dict>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:35Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPDisplaysReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>_dataType</key>
+		<string>SPMemoryDataType</string>
+		<key>_detailLevel</key>
+		<string>-1</string>
+		<key>_items</key>
+		<array>
+			<dict>
+				<key>_name</key>
+				<string>BANK 1 / ChannelA-DIMM1</string>
+				<key>dimm_size</key>
+				<string>4294967296</string>
+				<key>dimm_speed</key>
+				<string>1333 MHz</string>
+			</dict>
+			<dict>
+				<key>_name</key>
+				<string>BANK 3 / ChannelB-DIMM1</string>
+				<key>dimm_size</key>
+				<string>4294967296</string>
+				<key>dimm_speed</key>
+				<string>1333 MHz</string>
+			</dict>
+		</array>
+		<key>_parentDataType</key>
+		<string>SPHardwareDataType</string>
+		<key>_properties</key>
+		<dict>
+			<key>_name</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>10</string>
+			</dict>
+			<key>dimm_size</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>20</string>
+			</dict>
+			<key>dimm_speed</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>40</string>
+			</dict>
+			<key>dimm_status</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>50</string>
+			</dict>
+			<key>dimm_type</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>30</string>
+			</dict>
+		</dict>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:35Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPMemoryReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>_dataType</key>
+		<string>SPNetworkDataType</string>
+		<key>_detailLevel</key>
+		<string>-1</string>
+		<key>_items</key>
+		<array>
+			<dict>
+				<key>DNS</key>
+				<dict>
+					<key>ServerAddresses</key>
+					<array>
+						<string>10.1.1.1</string>
+					</array>
+				</dict>
+				<key>IPv4</key>
+				<dict>
+					<key>Addresses</key>
+					<array>
+						<string>10.1.1.22</string>
+					</array>
+					<key>ConfigMethod</key>
+					<string>DHCP</string>
+					<key>Default Gateway</key>
+					<string>10.1.1.1</string>
+					<key>SubnetMasks</key>
+					<array>
+						<string>255.255.255.0</string>
+					</array>
+				</dict>
+				<key>_name</key>
+				<string>Intel(R) 82579LM Gigabit Network Connection</string>
+				<key>dhcp</key>
+				<dict>
+					<key>Lease Expires</key>
+					<string>Thu Jan  1 08:00:00 1970</string>
+					<key>Lease Obtained</key>
+					<string>Thu Jun 21 12:42:35 2018</string>
+					<key>dhcp_lease_duration</key>
+					<string>32940.00</string>
+					<key>dhcp_routers</key>
+					<array>
+						<string>10.1.1.1</string>
+					</array>
+				</dict>
+				<key>type</key>
+				<string>Ethernet</string>
+			</dict>
+		</array>
+		<key>_properties</key>
+		<dict>
+			<key>_name</key>
+			<dict>
+				<key>_detailLevel</key>
+				<string>-1</string>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>0</string>
+			</dict>
+			<key>ip_address</key>
+			<dict>
+				<key>_detailLevel</key>
+				<string>0</string>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>30</string>
+			</dict>
+			<key>type</key>
+			<dict>
+				<key>_detailLevel</key>
+				<string>-1</string>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>10</string>
+			</dict>
+		</dict>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:35Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPNetworkReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>_dataType</key>
+		<string>SPSoftwareDataType</string>
+		<key>_detailLevel</key>
+		<string>-1</string>
+		<key>_items</key>
+		<array>
+			<dict>
+				<key>DirectX Version</key>
+				<string>12.0 </string>
+				<key>_name</key>
+				<string>os_overview</string>
+				<key>local_host_name</key>
+				<string>DESKTOP-DELL790</string>
+				<key>os_version</key>
+				<string>Microsoft Windows 10 x64 Professional Edition (Build 16299)</string>
+			</dict>
+		</array>
+		<key>_properties</key>
+		<dict>
+			<key>local_host_name</key>
+			<dict>
+				<key>_detailLevel</key>
+				<string>0</string>
+				<key>_order</key>
+				<string>35</string>
+			</dict>
+			<key>os_version</key>
+			<dict>
+				<key>_order</key>
+				<string>10</string>
+			</dict>
+		</dict>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:46Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPOSReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>_dataType</key>
+		<string>SPLogsDataType</string>
+		<key>_detailLevel</key>
+		<string>0</string>
+		<key>_items</key>
+		<array>
+			<dict>
+				<key>_name</key>
+				<string>iPhoneUpdater 2.log</string>
+				<key>contents</key>
+				<string>2018-06-21 21:30:09.924 [6712:23bc]: restore library built Apr 27 2018 at 12:02:43
+2018-06-21 21:30:09.924 [6712:23bc]: iTunes: iTunes 12.7.5.9
+2018-06-21 21:30:09.930 [6712:23bc]: iTunes: Current software version: 15F79
+2018-06-21 21:30:09.930 [6712:23bc]: iTunes: Software payload version: 15F79
+2018-06-21 21:30:09.930 [6712:23bc]: iTunes: Using MobileRestore state machine
+</string>
+				<key>description</key>
+				<string>iPhone updater log</string>
+				<key>lastModified</key>
+				<date>2018-06-21T13:30:09Z</date>
+				<key>path</key>
+				<string>C:\Users\hadmars\AppData\Roaming\Apple Computer\iTunes\iPhone Updater Logs\iPhoneUpdater 2.log</string>
+				<key>size</key>
+				<integer>382</integer>
+			</dict>
+			<dict>
+				<key>_name</key>
+				<string>iPhoneUpdater 1.log</string>
+				<key>contents</key>
+				<string>2018-06-14 03:40:31.856 [16004:19d0]: restore library built Apr 27 2018 at 12:02:43
+2018-06-14 03:40:31.856 [16004:19d0]: iTunes: iTunes 12.7.5.9
+2018-06-14 03:40:31.916 [16004:19d0]: iTunes: Current software version: 15D100
+2018-06-14 03:40:31.916 [16004:19d0]: iTunes: Software payload version: 15F79
+2018-06-14 03:40:31.916 [16004:19d0]: iTunes: Using MobileRestore state machine
+[19:51:42.0680] requested restore behavior: Update
+[19:51:42.0752] Automatically set FormatForAPFS =&gt; True and FormatForLwVM =&gt; False.
+[19:51:42.0761] Changing state from '(null)' to 'Restoring'
+[19:51:42.0762] Performing preflight on booted OS device...
+[19:51:42.0762] Found AuthInstallRestoreBehavior and selecting behavior based on that.
+[19:51:42.0767] Creating stashbag
+[19:51:42.0773] Creating pre-manifest
+[19:51:42.0784] requested restore behavior: Update
+[19:51:42.0867] Connected to PreboardService v2
+[19:51:42.0940] Device does not have a passcode, skipping preboard notification
+[19:51:43.0352] Personalizable SE deviceInfo returned NULL.
+[19:51:43.0367] Personalizable Savage deviceInfo returned NULL.
+[19:51:43.0396] requested restore behavior: Update
+[19:51:43.0434] amai: AMAuthInstallBasebandSetParametersWithUpdaterOutput: baseband updater output: &lt;CFBasicHash 00000231636B6550 [00007FFC42CB9100]&gt;{type = mutable dict, count = 9,
+[19:51:43.0434] entries =&gt;
+[19:51:43.0434] 	0 : &lt;CFString 00000231639C7940 [00007FFC42CB9100]&gt;{contents = "CertID"} = &lt;CFNumber 00000231639C7D80 [00007FFC42CB9100]&gt;{value = +3554301762, type = kCFNumberSInt64Type}
+[19:51:43.0434] 	1 : &lt;CFString 00000231639C7DA0 [00007FFC42CB9100]&gt;{contents = "ChipID"} = &lt;CFNumber 00000231639C7F20 [00007FFC42CB9100]&gt;{value = +7282913, type = kCFNumberSInt64Type}
+[19:51:43.0434] 	2 : &lt;CFString 00000231639C7F60 [00007FFC42CB9100]&gt;{contents = "FusingStatus"} = &lt;CFNumber 00000231569AB540 [00007FFC42CB9100]&gt;{value = +3, type = kCFNumberSInt32Type}
+[19:51:43.0434] 	3 : &lt;CFString 00000231639C8580 [00007FFC42CB9100]&gt;{contents = "Nonce"} = &lt;CFData 00000231648C5D80 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x0247ba364ccebb86046e041f514ae8fbb1f41457}
+[19:51:43.0434] 	4 : &lt;CFString 00000231639C8840 [00007FFC42CB9100]&gt;{contents = "PkHash"} = &lt;CFData 00000231648C5A50 [00007FFC42CB9100]&gt;{length = 32, capacity = 32, bytes = 0xd3da5742033972363a4c924d38ecceff ... 95fb2105b9f1ae18}
+[19:51:43.0434] 	5 : &lt;CFString 00000231639C8C60 [00007FFC42CB9100]&gt;{contents = "SKeyStatus"} = &lt;CFNumber 00000231569AB840 [00007FFC42CB9100]&gt;{value = +0, type = kCFNumberSInt32Type}
+[19:51:43.0434] 	6 : &lt;CFString 00000231639C8B00 [00007FFC42CB9100]&gt;{contents = "VendorID"} = &lt;CFNumber 00000231569AB540 [00007FFC42CB9100]&gt;{value = +3, type = kCFNumberSInt32Type}
+[19:51:43.0434] 	10 : &lt;CFString 00000231639C8640 [00007FFC42CB9100]&gt;{contents = "SKeyHash"} = &lt;CFData 00000231648C5840 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xecc404532bf31b88238d973b2ac34d0154d2f20e}
+[19:51:43.0434] 	11 : &lt;CFString 00000231639C7DC0 [00007FFC42CB9100]&gt;{contents = "ChipSerialNo"} = &lt;CFData 00000231648C5C30 [00007FFC42CB9100]&gt;{length = 4, capacity = 4, bytes = 0x37a83001}
+[19:51:43.0434] }
+[19:51:43.0434] 
+[19:51:43.0434] amai: AMAuthInstallBasebandSetParametersWithUpdaterOutput: manifest dict not found
+[19:51:43.0435] amai: _AMAuthInstallBasebandCheckForParameterChange: goldCertID changed
+[19:51:43.0435] amai: _AMAuthInstallBasebandCheckForParameterChange: nonce changed
+[19:51:43.0435] amai: _AMAuthInstallBasebandCheckForParameterChange: eUICC Param 0 unchanged
+[19:51:43.0435] amai: _AMAuthInstallBasebandCheckForParameterChange: eUICC Param 1 unchanged
+[19:51:43.0435] amai: _AMAuthInstallBasebandCheckForParameterChange: eUICC Param 2 unchanged
+[19:51:43.0435] amai: AMAuthInstallBasebandSetParametersWithUpdaterOutput: bbParameters changed, triggering bbfw re-personalization
+[19:51:43.0435] requested restore behavior: Update
+[19:51:43.0435] requested variant: Update
+[19:51:43.0435] requested restore behavior: Update
+[19:51:43.0440] personalizing: &lt;AMAuthInstall 00000231642FBD40&gt;{ap=(personalize=YES n53ap ecid=0x30d4c69606c, chipid=0x8960, boardid=0x2, isProduction=YES, EPRO=YES, isSecure=YES, ESEC=YES, img4=YES, demotionPolicy=, baaCert=NO, nonce=0x402498fc078e3df247e7689aa7eab3dff68f6326, sepNonce=0x2f8ecf88460ecf7f67c4080fc4f5a5c1ac7c0367), bp=(personalize=YES, snum=0x37a83001, chipid=0x6f20e1, certid=0xd3da5742, nonce=0x0247ba364ccebb86046e041f514ae8fbb1f41457), UserAuth=NO, iTunes=YES, server="http://gs.apple.com:80", locale=en_US, version="libauthinstall_Win-521.50.21", platform=win/10.0(16299) }
+[19:51:43.0440] amai: _AMAuthInstallBundleShouldPersonalizeOS: Personalize OS = Yes
+[19:51:43.0440] amai: _AMAuthInstallBundleShouldPersonalizeOS: Personalize OS = Yes
+[19:51:45.0225] amai: AMAuthInstallBasebandCreateMeasurements: Using set ChipID 0x006F20E1 to measure
+[19:51:45.0327] amai: _FindSbl1HeaderInFileData: found SBL header
+[19:51:45.0327] amai: _FindSbl1HeaderInFileData: foundMagic=1
+[19:51:45.0327] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: fileSize=0x185b8, srcOffset=0x50, codeSize=0x16c68
+[19:51:45.0327] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: version=0xa4014dfc, personalizationOffset=0x16bf0
+[19:51:45.0327] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: reservationLength=0x78, codeBytesHashed=0x16c40 (ok)
+[19:51:46.0687] amai: _FindSbl1HeaderInFileData: found SBL header
+[19:51:46.0687] amai: _FindSbl1HeaderInFileData: foundMagic=1
+[19:51:46.0687] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: fileSize=0x1d584, srcOffset=0x50, codeSize=0x1bc34
+[19:51:46.0687] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: version=0xa4114dfc, personalizationOffset=0x1bbf0
+[19:51:46.0687] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: reservationLength=0x44, codeBytesHashed=0x1bc40 (ok)
+[19:51:46.0688] amai: BbfwReaderFindAndCopyFileData: failed to find bbfw item "vinyl/update/main/signedprofile.der": File error
+[19:51:46.0688] amai: BbfwReaderFindAndCopyFileData: failed to find bbfw item "vinyl/update/gold/signedprofile.der": File error
+[19:51:47.0057] amai: _AMAuthInstallBundleSetBasebandKeyHashes: setting (from build manifest): BbProvisioningManifestKeyHash = &lt;CFData 00000231648CAAF0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xecc404532bf31b88238d973b2ac34d0154d2f20e}
+[19:51:47.0057] amai: _AMAuthInstallBundleSetBasebandKeyHashes: setting (from build manifest): BbActivationManifestKeyHash = &lt;CFData 00000231648CA970 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xaea5cce143668d0efb4ce1f2c94c966a6496c6aa}
+[19:51:47.0057] amai: _AMAuthInstallBundleCreateServerRequestDictionary: withApTicket is True
+[19:51:47.0057] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "RestoreLogo" Digest = "&lt;CFData 000002315E8FD670 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x20eb89586b340795a626eb0b342581af398262d3}"
+[19:51:47.0057] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "RestoreDeviceTree" Digest = "&lt;CFData 000002315E8FD310 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x9e80741ff698b6ff9ec0da1dc01c13e3c488d2bf}"
+[19:51:47.0057] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "RestoreKernelCache" Digest = "&lt;CFData 000002315E8FD730 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xd3c03e088d1d4a5dc1bb9a2d4b9f061a0fb2e26a}"
+[19:51:47.0057] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "RestoreRamDisk" Digest = "&lt;CFData 000002315E8FDBB0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xd55e44e24cc2e4ba51a118d1bc506de11e4d7ad8}"
+[19:51:47.0057] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "OSRamdisk" not part of manifest, skipping
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "iBEC" Digest = "&lt;CFData 000002315E8FD250 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xc4927670469d2c78bb04fd416f62c41ce7f45b36}"
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "iBSS" Digest = "&lt;CFData 000002315E8FD370 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x6b222f7affd7ee88a10ccb181489381d6385692f}"
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "KernelCache" Digest = "&lt;CFData 000002315E8FD3D0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x18fe1c42c43ad0528587bd4e6290a1ac8d024e57}"
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "ftap" not part of manifest, skipping
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "rfta" not part of manifest, skipping
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "ftsp" not part of manifest, skipping
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "rfts" not part of manifest, skipping
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "Diags" not part of manifest, skipping
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "CFELoader" not part of manifest, skipping
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "RBM" not part of manifest, skipping
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PHLEET" not part of manifest, skipping
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PERTOS" not part of manifest, skipping
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PEHammer" not part of manifest, skipping
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "Alamo" not part of manifest, skipping
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "OS"
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "LLB" Digest = "&lt;CFData 000002315E8FD070 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x491141410dc686e710da7bb1cf6ff19ea13171b7}"
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "AppleLogo" Digest = "&lt;CFData 000002315E8FD490 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x3124155f710f1dbad94d10f0c36b9e828633ee20}"
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "BatteryCharging1" Digest = "&lt;CFData 000002315E8FDA30 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x34d31f294810f9d68c1505be45c50f71b4571a75}"
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "SEP" Digest = "&lt;CFData 000002315E8FD6D0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x4e0564a5e68414d1944999cceab7bf234cc7cdb0}"
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "BatteryFull" Digest = "&lt;CFData 000002315E8FD970 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x282420e3e279d8c7a31a0af9f4d2534fabaa52a7}"
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "BatteryPlugin" Digest = "&lt;CFData 000002315E8FD4F0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xe1f12a96a18f55498328030d847c2d9b0d5dc6db}"
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "BatteryCharging0" Digest = "&lt;CFData 000002315E8FD2B0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x23b848c9d6ca37b3cbec90fda91c6072fa0bf062}"
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "BatteryLow1" Digest = "&lt;CFData 000002315E8FDF10 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x774483276e242691609e344cc7303e4583bcf5be}"
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "RestoreSEP" Digest = "&lt;CFData 000002315E8FD0D0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xbad27eeb76f6f1ae02574af6bc9d55207f0a3881}"
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "BatteryLow0" Digest = "&lt;CFData 000002315E8FDCD0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x5e7f9f29b2c5a9222df7f0ce02a3a000ccc40ae6}"
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "RecoveryMode" Digest = "&lt;CFData 000002315E8FDD30 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x653cbdaf466e6bd9496f15b589f6716cf952f2ad}"
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "DeviceTree" Digest = "&lt;CFData 000002315E8FDF70 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xf476228ad5052bf4cad004de023bb6efe8bd0562}"
+[19:51:47.0058] amai: _AMAuthInstallBundleCreateServerRequestDictionary: personalizing "iBoot" Digest = "&lt;CFData 000002315E8FDD90 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xc2eb6a234476535247cdab32bfebc74ab435c52d}"
+[19:51:47.0243] amai: AMAuthInstallBasebandApplyTssOverrides: failed to create CFDictionary from Options.plist The data couldnÃ¢â¬â¢t be read because it has been corrupamai: _AMAuthInstallBundleCreateServerRequestDictionary: using UniqueBuildID &lt;CFData 00000231648CB2D0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x7b18d0ca3a003c345a7da16d229240bd27002a6b}
+[19:51:47.0245] amai: AMAuthInstallRequestSendSync: SSO function returned NULL and no SSO token was provided, SSO disabled.
+[19:51:47.0247] amai: AMAuthInstallDebugWriteObject: debug object written: file://localhost/C:/Users/hadmars/AppData/Local/Temp/Per83D7.tmp/amai/debug/tss-request.plist
+[19:51:47.0247] amai: tss_submit_job_with_retry: TSS Connection attempt 1 of 3.  (Will retry if TSS_ERR_SERVER_NOT_REACHABLE.)
+[19:51:48.0516] amai: tss_submit_job: HttpQueryInfo returned 200
+[19:51:48.0760] amai: AMAuthInstallRequestSendSync: received tss response (server version: 2.1.0)
+[19:51:48.0769] amai: AMAuthInstallDebugWriteObject: debug object written: file://localhost/C:/Users/hadmars/AppData/Local/Temp/Per83D7.tmp/amai/debug/tss-response.plist
+[19:51:54.0531] amai: _AMAuthInstallBundlePopulatePersonalizedBundle: no entry in manifest found for "OSRamdisk"
+[19:51:55.0569] amai: _AMAuthInstallBundlePopulatePersonalizedBundle: no entry in manifest found for "ftap"
+[19:51:55.0569] amai: _AMAuthInstallBundlePopulatePersonalizedBundle: no entry in manifest found for "rfta"
+[19:51:55.0569] amai: _AMAuthInstallBundlePopulatePersonalizedBundle: no entry in manifest found for "ftsp"
+[19:51:55.0569] amai: _AMAuthInstallBundlePopulatePersonalizedBundle: no entry in manifest found for "rfts"
+[19:51:55.0569] amai: _AMAuthInstallBundlePopulatePersonalizedBundle: no entry in manifest found for "Diags"
+[19:51:55.0569] amai: _AMAuthInstallBundlePopulatePersonalizedBundle: no entry in manifest found for "CFELoader"
+[19:51:55.0569] amai: _AMAuthInstallBundlePopulatePersonalizedBundle: no entry in manifest found for "RBM"
+[19:51:55.0569] amai: _AMAuthInstallBundlePopulatePersonalizedBundle: no entry in manifest found for "PHLEET"
+[19:51:55.0569] amai: _AMAuthInstallBundlePopulatePersonalizedBundle: no entry in manifest found for "PERTOS"
+[19:51:55.0569] amai: _AMAuthInstallBundlePopulatePersonalizedBundle: no entry in manifest found for "PEHammer"
+[19:51:55.0569] amai: _AMAuthInstallBundlePopulatePersonalizedBundle: no entry in manifest found for "Alamo"
+[19:51:56.0011] amai: _VinylStitchInternal: 0
+[19:51:57.0555] amai: BbfwWriterAddFile: Added bbfw file : dsp1.mbn
+[19:51:57.0571] amai: BbfwWriterAddFile: Added bbfw file : sbl1.mbn
+[19:51:57.0700] amai: BbfwWriterAddFile: Added bbfw file : apps.mbn
+[19:52:01.0130] amai: BbfwWriterAddFile: Added bbfw file : dsp2.mbn
+[19:52:01.0145] amai: BbfwWriterAddFile: Added bbfw file : sbl2.mbn
+[19:52:01.0145] amai: BbfwWriterAddFile: Added bbfw file : bbticket.der
+[19:52:01.0151] amai: BbfwWriterAddFile: Added bbfw file : rpm.mbn
+[19:52:01.0151] amai: BbfwWriterAddFile: Added bbfw file : Options.plist
+[19:52:01.0469] amai: BbfwWriterAddFile: Added bbfw file : dsp3.mbn
+[19:52:01.0481] amai: BbfwWriterAddFile: Added bbfw file : restoresbl1.mbn
+[19:52:01.0488] amai: _AMAuthInstallBundleInstallPersonalizedEntry: entry "OS" does not require personalization; skipping it
+[19:52:03.0395] AMDeviceCopyFDRPreflightOptions: Skipping FDR preflight
+[19:52:03.0395] Successfully preflighted restore
+[19:52:03.0400] Entering recovery mode
+[19:52:03.0401] Finished BootedOS Restore Phase: Successful
+[19:52:17.0793] BootedOS mode device disconnected
+[19:52:17.0793] Device removed when in state Restoring, moving device to transition state
+[19:52:17.0793] Changing state from 'Restoring' to 'Transitioning'
+[19:52:17.0793] Creating timer to monitor transition
+[19:52:17.0793] Creating a timer for 10 minutes
+[19:52:33.0189] Recovery mode device connected
+[19:52:33.0189] Transitioning device returned, continuing restore.
+[19:52:33.0189] Canceling timer
+[19:52:33.0189] Changing state from 'Transitioning' to 'Restoring'
+[19:52:33.0190] requested restore behavior: Update
+[19:52:33.0428] amai: AMAuthInstallBundleCopyBuildIdentityForVariant: No baseband chipid reported. Will match Build Identity based on ap chipid and boardid only.
+[19:52:33.0431] requested restore behavior: Update
+[19:52:33.0431] requested variant: Update
+[19:52:33.0431] requested restore behavior: Update
+[19:52:33.0431] personalizing: &lt;AMAuthInstall 00000231642FB860&gt;{ap=(personalize=YES n53ap ecid=0x30d4c69606c, chipid=0x8960, boardid=0x2, isProduction=YES, EPRO=YES, isSecure=YES, ESEC=YES, img4=YES, demotionPolicy=, baaCert=NO, nonce=0x402498fc078e3df247e7689aa7eab3dff68f6326, sepNonce=0x14de2c1596fbe8bf68fe12117b53b176f3540ca4), bp=(personalize=YES), UserAuth=NO, iTunes=YES, server="http://gs.apple.com:80", locale=en_US, version="libauthinstall_Win-521.50.21", platform=win/10.0(16299) }
+[19:52:33.0431] amai: _AMAuthInstallBundleShouldPersonalizeOS: Personalize OS = Yes
+[19:52:33.0431] amai: _AMAuthInstallBundleShouldPersonalizeOS: Personalize OS = Yes
+[19:52:33.0458] amai: _AMAuthInstallBundleCreateServerRequestDictionary: withApTicket is False
+[19:52:33.0458] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreLogo"
+[19:52:33.0458] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreDeviceTree"
+[19:52:33.0458] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreKernelCache"
+[19:52:33.0458] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreRamDisk"
+[19:52:33.0458] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "OSRamdisk" not part of manifest, skipping
+[19:52:33.0458] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBEC"
+[19:52:33.0458] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBSS"
+[19:52:33.0458] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "KernelCache"
+[19:52:33.0458] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "ftap" not part of manifest, skipping
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "rfta" not part of manifest, skipping
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "ftsp" not part of manifest, skipping
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "rfts" not part of manifest, skipping
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "Diags" not part of manifest, skipping
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "CFELoader" not part of manifest, skipping
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "RBM" not part of manifest, skipping
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PHLEET" not part of manifest, skipping
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PERTOS" not part of manifest, skipping
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PEHammer" not part of manifest, skipping
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "Alamo" not part of manifest, skipping
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: skipping "OS" entry
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "LLB"
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "AppleLogo"
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryCharging1"
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "SEP"
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryFull"
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryPlugin"
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryCharging0"
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryLow1"
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreSEP"
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryLow0"
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RecoveryMode"
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "DeviceTree"
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBoot"
+[19:52:33.0459] amai: _AMAuthInstallBundleCreateServerRequestDictionary: nothing to be done
+[19:52:33.0459] interface has 1 endpoints, file pipe = 1
+[19:52:33.0459] 
+[19:52:33.0462] iBoot build-version = iBoot-4076.30.43
+[19:52:33.0464] iBoot build-style = RELEASE
+[19:52:33.0498] unable to open device_map.txt: No such file or directory
+[19:52:33.0569] found device map entry for 0x00008960 0x00000002. boardConfig=n53ap platform=s5l8960x
+[19:52:33.0569] _AMRestoreCopyDeviceMapPlistEntryForHardware: firmwareDirectory not in options
+[19:52:33.0569] requested restore behavior: Update
+[19:52:33.0571] requested restore behavior: Update
+[19:52:33.0574] unable to open device_map.txt: No such file or directory
+[19:52:33.0574] found device map entry for 0x00008960 0x00000002. boardConfig=n53ap platform=s5l8960x
+[19:52:33.0574] _AMRestoreCopyDeviceMapPlistEntryForHardware: firmwareDirectory not in options
+[19:52:33.0576] AMDeviceIoControl: GetOverlappedResult failed
+[19:52:33.0576] AMDeviceIoControl: pipe stall
+[19:52:33.0576] USBControlTransfer: error 31, usbd status c0000004
+[19:52:33.0576] command device request for 'getenv radio-error' failed: 2008
+[19:52:33.0576] radio-error not set
+[19:52:33.0577] unable to open device_map.txt: No such file or directory
+[19:52:33.0577] &lt;Recovery Mode Device 0000023163F1B070&gt;: production fused device
+[19:52:33.0577] unable to open device_map.txt: No such file or directory
+[19:52:33.0577] found device map entry for 0x00008960 0x00000002. boardConfig=n53ap platform=s5l8960x
+[19:52:33.0577] _AMRestoreCopyDeviceMapPlistEntryForHardware: firmwareDirectory not in options
+[19:52:33.0577] requested restore behavior: Update
+[19:52:33.0579] requested restore behavior: Update
+[19:52:33.0581] &lt;Recovery Mode Device 0000023163F1B070&gt;: operation 4 progress -1
+[19:52:33.0590] bootstrapping restore with iBEC
+[19:52:33.0590] requested restore behavior: Update
+[19:52:33.0594] Max file size is: 268435456
+[19:52:33.0626] &lt;Recovery Mode Device 0000023163F1B070&gt;: operation 31 progress -1
+[19:52:34.0626] &lt;Recovery Mode Device 0000023163F1B070&gt;: Recovery mode succeeded
+[19:52:34.0626] Finished Recovery Restore Phase: Successful
+[19:52:34.0922] Recovery mode device disconnected
+[19:52:34.0922] Device removed when in state Restoring, moving device to transition state
+[19:52:34.0922] Changing state from 'Restoring' to 'Transitioning'
+[19:52:34.0923] Creating timer to monitor transition
+[19:52:34.0923] Creating a timer for 10 minutes
+[19:52:46.0311] Recovery mode device connected
+[19:52:46.0311] Transitioning device returned, continuing restore.
+[19:52:46.0311] Canceling timer
+[19:52:46.0311] Changing state from 'Transitioning' to 'Restoring'
+[19:52:46.0312] requested restore behavior: Update
+[19:52:46.0319] amai: AMAuthInstallBundleCopyBuildIdentityForVariant: No baseband chipid reported. Will match Build Identity based on ap chipid and boardid only.
+[19:52:46.0320] requested restore behavior: Update
+[19:52:46.0320] requested variant: Update
+[19:52:46.0321] requested restore behavior: Update
+[19:52:46.0321] personalizing: &lt;AMAuthInstall 00000231642FCD80&gt;{ap=(personalize=YES n53ap ecid=0x30d4c69606c, chipid=0x8960, boardid=0x2, isProduction=YES, EPRO=YES, isSecure=YES, ESEC=YES, img4=YES, demotionPolicy=, baaCert=NO, nonce=0x402498fc078e3df247e7689aa7eab3dff68f6326, sepNonce=0x14de2c1596fbe8bf68fe12117b53b176f3540ca4), bp=(personalize=YES), UserAuth=NO, iTunes=YES, server="http://gs.apple.com:80", locale=en_US, version="libauthinstall_Win-521.50.21", platform=win/10.0(16299) }
+[19:52:46.0321] amai: _AMAuthInstallBundleShouldPersonalizeOS: Personalize OS = Yes
+[19:52:46.0321] amai: _AMAuthInstallBundleShouldPersonalizeOS: Personalize OS = Yes
+[19:52:46.0332] amai: _AMAuthInstallBundleCreateServerRequestDictionary: withApTicket is False
+[19:52:46.0332] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreLogo"
+[19:52:46.0332] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreDeviceTree"
+[19:52:46.0332] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreKernelCache"
+[19:52:46.0332] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreRamDisk"
+[19:52:46.0332] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "OSRamdisk" not part of manifest, skipping
+[19:52:46.0332] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBEC"
+[19:52:46.0332] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBSS"
+[19:52:46.0332] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "KernelCache"
+[19:52:46.0332] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "ftap" not part of manifest, skipping
+[19:52:46.0332] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "rfta" not part of manifest, skipping
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "ftsp" not part of manifest, skipping
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "rfts" not part of manifest, skipping
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "Diags" not part of manifest, skipping
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "CFELoader" not part of manifest, skipping
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "RBM" not part of manifest, skipping
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PHLEET" not part of manifest, skipping
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PERTOS" not part of manifest, skipping
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PEHammer" not part of manifest, skipping
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "Alamo" not part of manifest, skipping
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: skipping "OS" entry
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "LLB"
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "AppleLogo"
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryCharging1"
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "SEP"
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryFull"
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryPlugin"
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryCharging0"
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryLow1"
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreSEP"
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryLow0"
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RecoveryMode"
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "DeviceTree"
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBoot"
+[19:52:46.0333] amai: _AMAuthInstallBundleCreateServerRequestDictionary: nothing to be done
+[19:52:46.0333] interface has 1 endpoints, file pipe = 1
+[19:52:46.0333] 
+[19:52:46.0335] iBoot build-version = iBoot-4076.60.11
+[19:52:46.0337] iBoot build-style = RELEASE
+[19:52:46.0338] unable to open device_map.txt: No such file or directory
+[19:52:46.0338] found device map entry for 0x00008960 0x00000002. boardConfig=n53ap platform=s5l8960x
+[19:52:46.0338] _AMRestoreCopyDeviceMapPlistEntryForHardware: firmwareDirectory not in options
+[19:52:46.0338] requested restore behavior: Update
+[19:52:46.0340] requested restore behavior: Update
+[19:52:46.0343] unable to open device_map.txt: No such file or directory
+[19:52:46.0344] found device map entry for 0x00008960 0x00000002. boardConfig=n53ap platform=s5l8960x
+[19:52:46.0344] _AMRestoreCopyDeviceMapPlistEntryForHardware: firmwareDirectory not in options
+[19:52:46.0346] AMDeviceIoControl: GetOverlappedResult failed
+[19:52:46.0346] AMDeviceIoControl: pipe stall
+[19:52:46.0346] USBControlTransfer: error 31, usbd status c0000004
+[19:52:46.0346] command device request for 'getenv radio-error' failed: 2008
+[19:52:46.0346] radio-error not set
+[19:52:46.0346] unable to open device_map.txt: No such file or directory
+[19:52:46.0346] &lt;Recovery Mode Device 0000023163F1C7D0&gt;: production fused device
+[19:52:46.0347] unable to open device_map.txt: No such file or directory
+[19:52:46.0347] found device map entry for 0x00008960 0x00000002. boardConfig=n53ap platform=s5l8960x
+[19:52:46.0347] _AMRestoreCopyDeviceMapPlistEntryForHardware: firmwareDirectory not in options
+[19:52:46.0347] requested restore behavior: Update
+[19:52:46.0349] requested restore behavior: Update
+[19:52:46.0351] &lt;Recovery Mode Device 0000023163F1C7D0&gt;: operation 4 progress -1
+[19:52:46.0358] unable to open device_map.txt: No such file or directory
+[19:52:46.0358] found device map entry for 0x00008960 0x00000002. boardConfig=n53ap platform=s5l8960x
+[19:52:46.0358] _AMRestoreCopyDeviceMapPlistEntryForHardware: firmwareDirectory not in options
+[19:52:46.0358] requested restore behavior: Update
+[19:52:46.0361] requested restore behavior: Update
+[19:52:46.0363] &lt;Recovery Mode Device 0000023163F1C7D0&gt;: operation 43 progress -1
+[19:52:46.0363] requested restore behavior: Update
+[19:52:46.0367] Max file size is: 268435456
+[19:52:47.0398] No additional boot images found
+[19:52:47.0400] &lt;Recovery Mode Device 0000023163F1C7D0&gt;: operation 5 progress -1
+[19:52:50.0400] unable to open device_map.txt: No such file or directory
+[19:52:50.0400] found device map entry for 0x00008960 0x00000002. boardConfig=n53ap platform=s5l8960x
+[19:52:50.0400] _AMRestoreCopyDeviceMapPlistEntryForHardware: firmwareDirectory not in options
+[19:52:50.0402] AMDeviceIoControl: GetOverlappedResult failed
+[19:52:50.0403] AMDeviceIoControl: pipe stall
+[19:52:50.0403] USBControlTransfer: error 31, usbd status c0000004
+[19:52:50.0403] command device request for 'getenv ramdisk-delay' failed: 2008
+[19:52:51.0927] &lt;Recovery Mode Device 0000023163F1C7D0&gt;: operation 6 progress -1
+[19:52:51.0929] Max file size is: 268435456
+[19:52:53.0077] &lt;Recovery Mode Device 0000023163F1C7D0&gt;: operation 7 progress -1
+[19:52:53.0079] Max file size is: 268435456
+[19:52:53.0598] &lt;Recovery Mode Device 0000023163F1C7D0&gt;: operation 8 progress -1
+[19:52:53.0599] unable to open device_map.txt: No such file or directory
+[19:52:53.0599] found device map entry for 0x00008960 0x00000002. boardConfig=n53ap platform=s5l8960x
+[19:52:53.0599] _AMRestoreCopyDeviceMapPlistEntryForHardware: firmwareDirectory not in options
+[19:52:53.0601] &lt;Recovery Mode Device 0000023163F1C7D0&gt;: operation 9 progress -1
+[19:52:53.0601] &lt;Recovery Mode Device 0000023163F1C7D0&gt;: Recovery mode succeeded
+[19:52:53.0601] Finished Recovery Restore Phase: Successful
+[19:52:54.0672] Recovery mode device disconnected
+[19:52:54.0672] Device removed when in state Restoring, moving device to transition state
+[19:52:54.0672] Changing state from 'Restoring' to 'Transitioning'
+[19:52:54.0672] Creating timer to monitor transition
+[19:52:54.0672] Creating a timer for 10 minutes
+[19:53:00.0931] RestoreOS mode device connected
+[19:53:00.0931] Transitioning device returned, continuing restore.
+[19:53:00.0932] Canceling timer
+[19:53:00.0932] Changing state from 'Transitioning' to 'Restoring'
+[19:53:00.0938] requested restore behavior: Update
+[19:53:00.0944] amai: AMAuthInstallBundleCopyBuildIdentityForVariant: No baseband chipid reported. Will match Build Identity based on ap chipid and boardid only.
+[19:53:00.0946] amai: AMAuthInstallBasebandSetParametersWithUpdaterOutput: baseband updater output: &lt;CFBasicHash 0000023157659440 [00007FFC42CB9100]&gt;{type = mutable dict, count = 5,
+[19:53:00.0946] entries =&gt;
+[19:53:00.0946] 	1 : &lt;CFString 0000023157784180 [00007FFC42CB9100]&gt;{contents = "CertID"} = &lt;CFNumber 0000023164DBCB60 [00007FFC42CB9100]&gt;{value = -740665534, type = kCFNumberSInt32Type}
+[19:53:00.0946] 	2 : &lt;CFString 00000231577843E0 [00007FFC42CB9100]&gt;{contents = "ChipSerialNo"} = &lt;CFData 00000231648C5C30 [00007FFC42CB9100]&gt;{length = 4, capacity = 4, bytes = 0x37a83001}
+[19:53:00.0946] 	3 : &lt;CFString 0000023157784340 [00007FFC42CB9100]&gt;{contents = "VendorID"} = &lt;CFNumber 00000231569AB540 [00007FFC42CB9100]&gt;{value = +3, type = kCFNumberSInt32Type}
+[19:53:00.0946] 	4 : &lt;CFString 00000231577841A0 [00007FFC42CB9100]&gt;{contents = "Nonce"} = &lt;CFData 00000231648C5D80 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x0247ba364ccebb86046e041f514ae8fbb1f41457}
+[19:53:00.0946] 	6 : &lt;CFString 0000023157781980 [00007FFC42CB9100]&gt;{contents = "ChipID"} = &lt;CFNumber 0000023164DB9260 [00007FFC42CB9100]&gt;{value = +7282913, type = kCFNumberSInt32Type}
+[19:53:00.0946] }
+[19:53:00.0946] 
+[19:53:00.0946] amai: AMAuthInstallBasebandSetParametersWithUpdaterOutput: manifest dict not found
+[19:53:00.0946] amai: _AMAuthInstallBasebandCheckForParameterChange: bbParameters is now non-NULL
+[19:53:00.0946] &lt;Restore Device 0000023163F1CF60&gt;: operation 45 progress -1
+[19:53:00.0946] requested restore behavior: Update
+[19:53:00.0946] requested variant: Update
+[19:53:00.0946] requested restore behavior: Update
+[19:53:00.0946] personalizing: &lt;AMAuthInstall 00000231642FC560&gt;{ap=(personalize=YES n53ap ecid=0x30d4c69606c, chipid=0x8960, boardid=0x2, isProduction=YES, EPRO=YES, isSecure=YES, ESEC=YES, img4=YES, demotionPolicy=, baaCert=NO), bp=(personalize=YES, snum=0x37a83001, chipid=0x6f20e1, certid=0xd3da5742, nonce=0x0247ba364ccebb86046e041f514ae8fbb1f41457), UserAuth=NO, iTunes=YES, server="http://gs.apple.com:80", locale=en_US, version="libauthinstall_Win-521.50.21", platform=win/10.0(16299) }
+[19:53:00.0946] amai: _AMAuthInstallBundleShouldPersonalizeOS: Personalize OS = Yes
+[19:53:00.0946] amai: _AMAuthInstallBundleShouldPersonalizeOS: Personalize OS = Yes
+[19:53:00.0951] amai: AMAuthInstallBasebandCreateMeasurements: Using set ChipID 0x006F20E1 to measure
+[19:53:00.0953] amai: _FindSbl1HeaderInFileData: found SBL header
+[19:53:00.0959] amai: _FindSbl1HeaderInFileData: foundMagic=1
+[19:53:00.0959] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: fileSize=0x185b8, srcOffset=0x50, codeSize=0x16c68
+[19:53:00.0959] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: version=0xa4014dfc, personalizationOffset=0x16bf0
+[19:53:00.0959] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: reservationLength=0x78, codeBytesHashed=0x16c40 (ok)
+[19:53:01.0589] amai: _FindSbl1HeaderInFileData: found SBL header
+[19:53:01.0589] amai: _FindSbl1HeaderInFileData: foundMagic=1
+[19:53:01.0589] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: fileSize=0x1d584, srcOffset=0x50, codeSize=0x1bc34
+[19:53:01.0589] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: version=0xa4114dfc, personalizationOffset=0x1bbf0
+[19:53:01.0589] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: reservationLength=0x44, codeBytesHashed=0x1bc40 (ok)
+[19:53:01.0591] amai: BbfwReaderFindAndCopyFileData: failed to find bbfw item "vinyl/update/main/signedprofile.der": File error
+[19:53:01.0591] amai: BbfwReaderFindAndCopyFileData: failed to find bbfw item "vinyl/update/gold/signedprofile.der": File error
+[19:53:01.0591] amai: _AMAuthInstallBundleSetBasebandKeyHashes: setting (from build manifest): BbProvisioningManifestKeyHash = &lt;CFData 00000231648CD190 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xecc404532bf31b88238d973b2ac34d0154d2f20e}
+[19:53:01.0591] amai: _AMAuthInstallBundleSetBasebandKeyHashes: setting (from build manifest): BbActivationManifestKeyHash = &lt;CFData 00000231648CD0D0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xaea5cce143668d0efb4ce1f2c94c966a6496c6aa}
+[19:53:01.0591] amai: _AMAuthInstallBundleCreateServerRequestDictionary: withApTicket is False
+[19:53:01.0591] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreLogo"
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreDeviceTree"
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreKernelCache"
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreRamDisk"
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "OSRamdisk" not part of manifest, skipping
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBEC"
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBSS"
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "KernelCache"
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "ftap" not part of manifest, skipping
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "rfta" not part of manifest, skipping
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "ftsp" not part of manifest, skipping
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "rfts" not part of manifest, skipping
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "Diags" not part of manifest, skipping
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "CFELoader" not part of manifest, skipping
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "RBM" not part of manifest, skipping
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PHLEET" not part of manifest, skipping
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PERTOS" not part of manifest, skipping
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PEHammer" not part of manifest, skipping
+[19:53:01.0592] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "Alamo" not part of manifest, skipping
+[19:53:01.0593] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "BasebandFirmware" has been previously personalized; skipping it
+[19:53:01.0593] amai: _AMAuthInstallBundleCreateServerRequestDictionary: skipping "OS" entry
+[19:53:01.0593] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "LLB"
+[19:53:01.0593] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "AppleLogo"
+[19:53:01.0593] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryCharging1"
+[19:53:01.0593] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "SEP"
+[19:53:01.0593] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryFull"
+[19:53:01.0593] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryPlugin"
+[19:53:01.0593] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryCharging0"
+[19:53:01.0593] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryLow1"
+[19:53:01.0593] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreSEP"
+[19:53:01.0593] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryLow0"
+[19:53:01.0593] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RecoveryMode"
+[19:53:01.0593] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "DeviceTree"
+[19:53:01.0593] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBoot"
+[19:53:01.0593] amai: _AMAuthInstallBundleCreateServerRequestDictionary: nothing to be done
+[19:53:01.0593] requested restore behavior: Update
+[19:53:01.0595] overwrite InstallDiags to false
+[19:53:01.0599] device did not return saved USB log
+[19:53:01.0599] device did not return saved panic log
+[19:53:01.0602] connected to service com.apple.mobile.restored
+[19:53:01.0602] using protocol version 15
+[19:53:01.0608] unable to open device_map.txt: No such file or directory
+[19:53:01.0608] board config = n53ap
+[19:53:01.0620] no value returned for BootArgs
+[19:53:01.0620] _copyDeviceProperty() failed for restore bootargs
+[19:53:01.0631] no value returned for MarketingPartNumber
+[19:53:01.0631] _copyDeviceProperty() failed for mpn
+[19:53:01.0631] requested restore behavior: Update
+[19:53:01.0640] value query for 'HardwareModel' returned 'N53AP'
+[19:53:01.0641] Can't return padding information since it's not in the Restore.plist
+[19:53:01.0641] No padding dictionary found in restore bundle. Continuing...
+[19:53:01.0641] requested restore behavior: Update
+[19:53:01.0778] Established proxy for device ID 2
+[19:53:01.0988]   Started checkpoint id: 0x609
+[19:53:01.0994] &lt;Restore Device 0000023163F1CF60&gt;: operation 35 progress -1
+[19:53:01.0994] requested restore behavior: Update
+[19:53:03.0519] Completed checkpoint id: 0x609
+[19:53:03.0540] &lt;Restore Device 0000023163F1CF60&gt;: operation 28 progress -1
+[19:53:03.0619]   Started checkpoint id: 0x610
+[19:53:03.0626] Completed checkpoint id: 0x610
+[19:53:03.0688]   Started checkpoint id: 0x665
+[19:53:03.0689] &lt;Restore Device 0000023163F1CF60&gt;: operation 15 progress -1
+[19:53:20.0641] Completed checkpoint id: 0x665
+[19:53:20.0645] &lt;Restore Device 0000023163F1CF60&gt;: operation 15 progress -1
+[19:53:22.0270]   Started checkpoint id: 0x661
+[19:53:22.0275] Completed checkpoint id: 0x661
+[19:53:22.0280] &lt;Restore Device 0000023163F1CF60&gt;: operation 29 progress -1
+[19:53:22.0296] &lt;Restore Device 0000023163F1CF60&gt;: operation 29 progress -1
+[19:53:22.0343]   Started checkpoint id: 0x64E
+[19:53:22.0347] Completed checkpoint id: 0x64E
+[19:53:22.0351]   Started checkpoint id: 0x653
+[19:53:22.0578] Completed checkpoint id: 0x653
+[19:53:25.0264]   Started checkpoint id: 0x622
+[19:53:25.0274] Completed checkpoint id: 0x622
+[19:53:26.0295] &lt;Restore Device 0000023163F1CF60&gt;: operation 12 progress -1
+[19:53:28.0469]   Started checkpoint id: 0x65B
+[19:53:29.0480] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 0
+[19:53:39.0503] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 1
+[19:53:39.0503] ASR progress: Initialized communication with client
+[19:53:41.0119] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 5
+[19:53:41.0119] ASR progress: Starting to send payload
+[19:53:42.0451] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 6
+[19:53:42.0451] ASR progress: Sending payload
+[19:53:43.0521] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 7
+[19:53:43.0521] ASR progress: Sending payload
+[19:53:46.0758] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 8
+[19:53:46.0758] ASR progress: Sending payload
+[19:53:47.0803] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 9
+[19:53:47.0803] ASR progress: Sending payload
+[19:53:48.0840] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 10
+[19:53:48.0840] ASR progress: Sending payload
+[19:53:49.0898] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 11
+[19:53:49.0898] ASR progress: Sending payload
+[19:53:50.0968] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 12
+[19:53:50.0968] ASR progress: Sending payload
+[19:53:52.0020] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 13
+[19:53:52.0020] ASR progress: Sending payload
+[19:53:53.0590] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 14
+[19:53:53.0590] ASR progress: Sending payload
+[19:53:54.0629] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 15
+[19:53:54.0629] ASR progress: Sending payload
+[19:53:55.0735] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 16
+[19:53:55.0735] ASR progress: Sending payload
+[19:53:56.0809] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 17
+[19:53:56.0809] ASR progress: Sending payload
+[19:53:57.0909] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 18
+[19:53:57.0909] ASR progress: Sending payload
+[19:53:59.0106] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 19
+[19:53:59.0106] ASR progress: Sending payload
+[19:54:00.0133] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 20
+[19:54:00.0133] ASR progress: Sending payload
+[19:54:01.0160] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 21
+[19:54:01.0160] ASR progress: Sending payload
+[19:54:02.0198] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 22
+[19:54:02.0198] ASR progress: Sending payload
+[19:54:03.0435] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 23
+[19:54:03.0435] ASR progress: Sending payload
+[19:54:04.0737] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 24
+[19:54:04.0737] ASR progress: Sending payload
+[19:54:06.0209] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 25
+[19:54:06.0209] ASR progress: Sending payload
+[19:54:08.0083] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 26
+[19:54:08.0083] ASR progress: Sending payload
+[19:54:09.0240] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 27
+[19:54:09.0240] ASR progress: Sending payload
+[19:54:10.0344] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 28
+[19:54:10.0344] ASR progress: Sending payload
+[19:54:11.0755] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 29
+[19:54:11.0755] ASR progress: Sending payload
+[19:54:13.0907] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 30
+[19:54:13.0907] ASR progress: Sending payload
+[19:54:15.0394] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 31
+[19:54:15.0394] ASR progress: Sending payload
+[19:54:16.0804] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 32
+[19:54:16.0804] ASR progress: Sending payload
+[19:54:17.0844] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 33
+[19:54:17.0844] ASR progress: Sending payload
+[19:54:18.0883] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 34
+[19:54:18.0883] ASR progress: Sending payload
+[19:54:19.0956] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 35
+[19:54:19.0956] ASR progress: Sending payload
+[19:54:21.0030] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 36
+[19:54:21.0030] ASR progress: Sending payload
+[19:54:22.0400] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 37
+[19:54:22.0400] ASR progress: Sending payload
+[19:54:23.0596] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 38
+[19:54:23.0596] ASR progress: Sending payload
+[19:54:24.0625] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 39
+[19:54:24.0625] ASR progress: Sending payload
+[19:54:25.0667] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 40
+[19:54:25.0668] ASR progress: Sending payload
+[19:54:26.0732] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 41
+[19:54:26.0732] ASR progress: Sending payload
+[19:54:27.0977] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 42
+[19:54:27.0977] ASR progress: Sending payload
+[19:54:29.0070] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 43
+[19:54:29.0070] ASR progress: Sending payload
+[19:54:30.0165] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 44
+[19:54:30.0165] ASR progress: Sending payload
+[19:54:31.0245] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 45
+[19:54:31.0245] ASR progress: Sending payload
+[19:54:32.0299] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 46
+[19:54:32.0299] ASR progress: Sending payload
+[19:54:33.0775] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 47
+[19:54:33.0776] ASR progress: Sending payload
+[19:54:34.0801] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 48
+[19:54:34.0801] ASR progress: Sending payload
+[19:54:35.0881] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 49
+[19:54:35.0881] ASR progress: Sending payload
+[19:54:37.0156] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 50
+[19:54:37.0156] ASR progress: Sending payload
+[19:54:38.0225] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 51
+[19:54:38.0225] ASR progress: Sending payload
+[19:54:39.0281] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 52
+[19:54:39.0281] ASR progress: Sending payload
+[19:54:41.0732] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 53
+[19:54:41.0732] ASR progress: Sending payload
+[19:54:42.0806] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 54
+[19:54:42.0806] ASR progress: Sending payload
+[19:54:43.0921] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 55
+[19:54:43.0921] ASR progress: Sending payload
+[19:54:45.0002] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 56
+[19:54:45.0002] ASR progress: Sending payload
+[19:54:46.0263] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 57
+[19:54:46.0263] ASR progress: Sending payload
+[19:54:47.0326] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 58
+[19:54:47.0326] ASR progress: Sending payload
+[19:54:48.0389] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 59
+[19:54:48.0389] ASR progress: Sending payload
+[19:54:49.0466] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 60
+[19:54:49.0466] ASR progress: Sending payload
+[19:54:50.0698] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 61
+[19:54:50.0698] ASR progress: Sending payload
+[19:54:51.0858] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 62
+[19:54:51.0858] ASR progress: Sending payload
+[19:54:52.0906] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 63
+[19:54:52.0906] ASR progress: Sending payload
+[19:54:54.0061] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 64
+[19:54:54.0061] ASR progress: Sending payload
+[19:54:55.0366] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 65
+[19:54:55.0366] ASR progress: Sending payload
+[19:54:56.0863] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 66
+[19:54:56.0863] ASR progress: Sending payload
+[19:54:57.0916] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 67
+[19:54:57.0916] ASR progress: Sending payload
+[19:54:59.0058] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 68
+[19:54:59.0058] ASR progress: Sending payload
+[19:55:00.0120] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 69
+[19:55:00.0120] ASR progress: Sending payload
+[19:55:01.0196] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 70
+[19:55:01.0196] ASR progress: Sending payload
+[19:55:02.0193] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 71
+[19:55:02.0193] ASR progress: Sending payload
+[19:55:03.0238] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 72
+[19:55:03.0238] ASR progress: Sending payload
+[19:55:04.0286] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 73
+[19:55:04.0286] ASR progress: Sending payload
+[19:55:05.0369] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 74
+[19:55:05.0369] ASR progress: Sending payload
+[19:55:06.0485] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 75
+[19:55:06.0485] ASR progress: Sending payload
+[19:55:07.0531] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 76
+[19:55:07.0531] ASR progress: Sending payload
+[19:55:08.0546] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 77
+[19:55:08.0546] ASR progress: Sending payload
+[19:55:09.0548] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 78
+[19:55:09.0548] ASR progress: Sending payload
+[19:55:10.0583] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 79
+[19:55:10.0583] ASR progress: Sending payload
+[19:55:11.0621] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 80
+[19:55:11.0621] ASR progress: Sending payload
+[19:55:12.0642] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 81
+[19:55:12.0642] ASR progress: Sending payload
+[19:55:13.0735] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 82
+[19:55:13.0735] ASR progress: Sending payload
+[19:55:14.0861] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 83
+[19:55:14.0861] ASR progress: Sending payload
+[19:55:15.0951] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 84
+[19:55:15.0951] ASR progress: Sending payload
+[19:55:17.0890] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 85
+[19:55:17.0890] ASR progress: Sending payload
+[19:55:18.0927] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 86
+[19:55:18.0927] ASR progress: Sending payload
+[19:55:20.0231] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 87
+[19:55:20.0231] ASR progress: Sending payload
+[19:55:21.0247] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 88
+[19:55:21.0247] ASR progress: Sending payload
+[19:55:22.0308] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 89
+[19:55:22.0309] ASR progress: Sending payload
+[19:55:23.0545] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 90
+[19:55:23.0545] ASR progress: Sending payload
+[19:55:24.0596] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 91
+[19:55:24.0597] ASR progress: Sending payload
+[19:55:25.0631] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 92
+[19:55:25.0631] ASR progress: Sending payload
+[19:55:26.0671] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 93
+[19:55:26.0671] ASR progress: Sending payload
+[19:55:27.0996] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 94
+[19:55:27.0996] ASR progress: Sending payload
+[19:55:29.0055] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 95
+[19:55:29.0055] ASR progress: Sending payload
+[19:55:30.0184] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 96
+[19:55:30.0184] ASR progress: Sending payload
+[19:55:31.0253] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 97
+[19:55:31.0253] ASR progress: Sending payload
+[19:55:32.0520] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 98
+[19:55:32.0520] ASR progress: Sending payload
+[19:55:33.0573] &lt;Restore Device 0000023163F1CF60&gt;: operation 13 progress 100
+[19:55:33.0574] ASR progress: Finished
+[19:55:33.0835] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 2
+[19:55:34.0011] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 4
+[19:55:34.0184] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 6
+[19:55:34.0362] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 8
+[19:55:34.0540] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 10
+[19:55:34.0709] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 12
+[19:55:34.0885] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 14
+[19:55:35.0070] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 16
+[19:55:35.0243] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 18
+[19:55:35.0416] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 20
+[19:55:35.0592] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 22
+[19:55:35.0771] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 24
+[19:55:35.0948] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 26
+[19:55:36.0121] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 28
+[19:55:36.0301] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 30
+[19:55:36.0471] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 32
+[19:55:36.0650] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 34
+[19:55:36.0822] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 36
+[19:55:36.0997] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 38
+[19:55:37.0172] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 40
+[19:55:37.0345] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 42
+[19:55:37.0523] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 44
+[19:55:37.0697] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 46
+[19:55:37.0873] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 48
+[19:55:38.0047] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 50
+[19:55:38.0219] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 52
+[19:55:38.0398] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 54
+[19:55:38.0568] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 56
+[19:55:38.0748] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 58
+[19:55:38.0926] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 60
+[19:55:39.0101] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 62
+[19:55:39.0279] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 64
+[19:55:39.0457] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 66
+[19:55:39.0639] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 68
+[19:55:39.0811] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 70
+[19:55:39.0989] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 72
+[19:55:40.0164] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 74
+[19:55:40.0342] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 76
+[19:55:40.0519] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 78
+[19:55:40.0691] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 80
+[19:55:40.0870] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 82
+[19:55:41.0060] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 84
+[19:55:41.0241] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 86
+[19:55:41.0412] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 88
+[19:55:41.0592] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 90
+[19:55:41.0788] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 92
+[19:55:41.0965] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 94
+[19:55:42.0146] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 96
+[19:55:42.0326] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 98
+[19:55:42.0499] &lt;Restore Device 0000023163F1CF60&gt;: operation 14 progress 100
+[19:56:08.0816] Completed checkpoint id: 0x65B
+[19:56:08.0820]   Started checkpoint id: 0x626
+[19:56:08.0822] &lt;Restore Device 0000023163F1CF60&gt;: operation 15 progress -1
+[19:56:14.0268] &lt;Restore Device 0000023163F1CF60&gt;: operation 15 progress -1
+[19:56:23.0876] &lt;Restore Device 0000023163F1CF60&gt;: operation 16 progress -1
+[19:56:23.0919] &lt;Restore Device 0000023163F1CF60&gt;: operation 16 progress -1
+[19:56:24.0603] Completed checkpoint id: 0x626
+[19:56:24.0613]   Started checkpoint id: 0x627
+[19:56:24.0624] Completed checkpoint id: 0x627
+[19:56:24.0634]   Started checkpoint id: 0x628
+[19:56:24.0652] requested restore behavior: Update
+[19:56:24.0653] &lt;Restore Device 0000023163F1CF60&gt;: operation 27 progress -1
+[19:56:25.0924] &lt;Restore Device 0000023163F1CF60&gt;: operation 27 progress -1
+[19:56:26.0025] requested restore behavior: Update
+[19:56:26.0029] &lt;Restore Device 0000023163F1CF60&gt;: operation 61 progress -1
+[19:56:26.0098] &lt;Restore Device 0000023163F1CF60&gt;: operation 61 progress -1
+[19:56:26.0108]   Started checkpoint id: 0xE02
+[19:56:26.0115] Completed checkpoint id: 0xE02
+[19:56:26.0130] Completed checkpoint id: 0x628
+[19:56:26.0133]   Started checkpoint id: 0x652
+[19:56:26.0139] Completed checkpoint id: 0x652
+[19:56:26.0160] &lt;Restore Device 0000023163F1CF60&gt;: operation 18 progress 0
+[19:56:26.0615] &lt;Restore Device 0000023163F1CF60&gt;: operation 18 progress 100
+[19:56:26.0624] &lt;Restore Device 0000023163F1CF60&gt;: operation 47 progress -1
+[19:56:26.0634] &lt;Restore Device 0000023163F1CF60&gt;: operation 47 progress -1
+[19:56:26.0644] &lt;Restore Device 0000023163F1CF60&gt;: operation 55 progress 0
+[19:56:26.0654] &lt;Restore Device 0000023163F1CF60&gt;: operation 36 progress -1
+[19:56:26.0654] requested restore behavior: Update
+[19:56:26.0686]   Started checkpoint id: 0x1306
+[19:56:26.0690] Completed checkpoint id: 0x1306
+[19:56:26.0694]   Started checkpoint id: 0x1307
+[19:56:26.0699] Completed checkpoint id: 0x1307
+[19:56:26.0711]   Started checkpoint id: 0x130E
+[19:56:26.0717] Completed checkpoint id: 0x130E
+[19:56:26.0731] &lt;Restore Device 0000023163F1CF60&gt;: operation 36 progress -1
+[19:56:26.0731] requested restore behavior: Update
+[19:56:26.0757] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress -1
+[19:56:27.0428] requested restore behavior: Update
+[19:56:27.0431] amai: AMAuthInstallBasebandSetParametersWithUpdaterOutput: baseband updater output: &lt;CFBasicHash 00000231645EB110 [00007FFC42CB9100]&gt;{type = mutable dict, count = 7,
+[19:56:27.0431] entries =&gt;
+[19:56:27.0431] 	0 : &lt;CFString 00000231649FFD00 [00007FFC42CB9100]&gt;{contents = "CertHash"} = &lt;CFData 00000231648C9620 [00007FFC42CB9100]&gt;{length = 32, capacity = 32, bytes = 0xd3da5742033972363a4c924d38ecceff ... 95fb2105b9f1ae18}
+[19:56:27.0431] 	1 : &lt;CFString 00000231649FFEE0 [00007FFC42CB9100]&gt;{contents = "CertID"} = &lt;CFNumber 00000231649FFE20 [00007FFC42CB9100]&gt;{value = +3554301762, type = kCFNumberSInt64Type}
+[19:56:27.0431] 	2 : &lt;CFString 00000231648F8240 [00007FFC42CB9100]&gt;{contents = "ChipID"} = &lt;CFNumber 00000231648F8440 [00007FFC42CB9100]&gt;{value = +7282913, type = kCFNumberSInt64Type}
+[19:56:27.0431] 	3 : &lt;CFString 00000231648F8160 [00007FFC42CB9100]&gt;{contents = "FusingStatus"} = &lt;CFNumber 00000231569AB540 [00007FFC42CB9100]&gt;{value = +3, type = kCFNumberSInt32Type}
+[19:56:27.0431] 	4 : &lt;CFString 00000231648F8480 [00007FFC42CB9100]&gt;{contents = "Nonce"} = &lt;CFData 00000231648C96B0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x0247ba364ccebb86046e041f514ae8fbb1f41457}
+[19:56:27.0431] 	5 : &lt;CFString 00000231648F81E0 [00007FFC42CB9100]&gt;{contents = "VendorID"} = &lt;CFNumber 00000231569AB540 [00007FFC42CB9100]&gt;{value = +3, type = kCFNumberSInt32Type}
+[19:56:27.0431] 	11 : &lt;CFString 00000231648F82C0 [00007FFC42CB9100]&gt;{contents = "ChipSerialNo"} = &lt;CFData 00000231648C9530 [00007FFC42CB9100]&gt;{length = 4, capacity = 4, bytes = 0x37a83001}
+[19:56:27.0431] }
+[19:56:27.0431] 
+[19:56:27.0431] amai: AMAuthInstallBasebandSetParametersWithUpdaterOutput: manifest dict not found
+[19:56:27.0431] amai: _AMAuthInstallBasebandCheckForParameterChange: eUICC Param 0 unchanged
+[19:56:27.0431] amai: _AMAuthInstallBasebandCheckForParameterChange: eUICC Param 1 unchanged
+[19:56:27.0431] amai: _AMAuthInstallBasebandCheckForParameterChange: eUICC Param 2 unchanged
+[19:56:27.0459] requested restore behavior: Update
+[19:56:27.0459] requested variant: Update
+[19:56:27.0460] requested restore behavior: Update
+[19:56:27.0460] personalizing: &lt;AMAuthInstall 00000231642FC560&gt;{ap=(personalize=YES n53ap ecid=0x30d4c69606c, chipid=0x8960, boardid=0x2, isProduction=YES, EPRO=YES, isSecure=YES, ESEC=YES, img4=YES, demotionPolicy=, baaCert=NO), bp=(personalize=YES, snum=0x37a83001, chipid=0x6f20e1, certid=0xd3da5742, nonce=0x0247ba364ccebb86046e041f514ae8fbb1f41457), UserAuth=NO, iTunes=YES, server="http://gs.apple.com:80", locale=en_US, version="libauthinstall_Win-521.50.21", platform=win/10.0(16299) }
+[19:56:27.0460] amai: _AMAuthInstallBundleShouldPersonalizeOS: Personalize OS = Yes
+[19:56:27.0460] amai: _AMAuthInstallBundleShouldPersonalizeOS: Personalize OS = Yes
+[19:56:27.0472] amai: AMAuthInstallBasebandCreateMeasurements: Using set ChipID 0x006F20E1 to measure
+[19:56:27.0551] amai: _FindSbl1HeaderInFileData: found SBL header
+[19:56:27.0551] amai: _FindSbl1HeaderInFileData: foundMagic=1
+[19:56:27.0551] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: fileSize=0x185b8, srcOffset=0x50, codeSize=0x16c68
+[19:56:27.0551] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: version=0xa4014dfc, personalizationOffset=0x16bf0
+[19:56:27.0551] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: reservationLength=0x78, codeBytesHashed=0x16c40 (ok)
+[19:56:28.0556] amai: _FindSbl1HeaderInFileData: found SBL header
+[19:56:28.0556] amai: _FindSbl1HeaderInFileData: foundMagic=1
+[19:56:28.0556] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: fileSize=0x1d584, srcOffset=0x50, codeSize=0x1bc34
+[19:56:28.0556] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: version=0xa4114dfc, personalizationOffset=0x1bbf0
+[19:56:28.0556] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: reservationLength=0x44, codeBytesHashed=0x1bc40 (ok)
+[19:56:28.0557] amai: BbfwReaderFindAndCopyFileData: failed to find bbfw item "vinyl/update/main/signedprofile.der": File error
+[19:56:28.0557] amai: BbfwReaderFindAndCopyFileData: failed to find bbfw item "vinyl/update/gold/signedprofile.der": File error
+[19:56:28.0557] amai: _AMAuthInstallBundleSetBasebandKeyHashes: setting (from build manifest): BbProvisioningManifestKeyHash = &lt;CFData 00000231648CD190 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xecc404532bf31b88238d973b2ac34d0154d2f20e}
+[19:56:28.0557] amai: _AMAuthInstallBundleSetBasebandKeyHashes: setting (from build manifest): BbActivationManifestKeyHash = &lt;CFData 00000231648CD0D0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xaea5cce143668d0efb4ce1f2c94c966a6496c6aa}
+[19:56:28.0557] amai: _AMAuthInstallBundleCreateServerRequestDictionary: withApTicket is False
+[19:56:28.0557] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreLogo"
+[19:56:28.0557] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreDeviceTree"
+[19:56:28.0557] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreKernelCache"
+[19:56:28.0557] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreRamDisk"
+[19:56:28.0557] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "OSRamdisk" not part of manifest, skipping
+[19:56:28.0557] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBEC"
+[19:56:28.0557] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBSS"
+[19:56:28.0557] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "KernelCache"
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "ftap" not part of manifest, skipping
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "rfta" not part of manifest, skipping
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "ftsp" not part of manifest, skipping
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "rfts" not part of manifest, skipping
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "Diags" not part of manifest, skipping
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "CFELoader" not part of manifest, skipping
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "RBM" not part of manifest, skipping
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PHLEET" not part of manifest, skipping
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PERTOS" not part of manifest, skipping
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PEHammer" not part of manifest, skipping
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "Alamo" not part of manifest, skipping
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "BasebandFirmware" has been previously personalized; skipping it
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: skipping "OS" entry
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "LLB"
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "AppleLogo"
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryCharging1"
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "SEP"
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryFull"
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryPlugin"
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryCharging0"
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryLow1"
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreSEP"
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryLow0"
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RecoveryMode"
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "DeviceTree"
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBoot"
+[19:56:28.0558] amai: _AMAuthInstallBundleCreateServerRequestDictionary: nothing to be done
+[19:56:30.0967] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 0
+[19:56:31.0163] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 0
+[19:56:31.0362] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 0
+[19:56:31.0747] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 0
+[19:56:31.0752] amai: AMAuthInstallBasebandHandleUpdaterStatus: commandAccepted: YES
+[19:56:31.0752] amai: AMAuthInstallBasebandHandleUpdaterStatus: outputDict: &lt;CFBasicHash 00000231645EAE90 [00007FFC42CB9100]&gt;{type = mutable dict, count = 9,
+[19:56:31.0752] entries =&gt;
+[19:56:31.0752] 	0 : &lt;CFString 00000231649FFF20 [00007FFC42CB9100]&gt;{contents = "CertHash"} = &lt;CFData 00000231648C9EC0 [00007FFC42CB9100]&gt;{length = 32, capacity = 32, bytes = 0xd3da5742033972363a4c924d38ecceff ... 95fb2105b9f1ae18}
+[19:56:31.0752] 	1 : &lt;CFString 00000231648F81E0 [00007FFC42CB9100]&gt;{contents = "CertID"} = &lt;CFNumber 00000231648F8140 [00007FFC42CB9100]&gt;{value = +3554301762, type = kCFNumberSInt64Type}
+[19:56:31.0752] 	2 : &lt;CFString 00000231648F8160 [00007FFC42CB9100]&gt;{contents = "ChipID"} = &lt;CFNumber 00000231648F81C0 [00007FFC42CB9100]&gt;{value = +7282913, type = kCFNumberSInt64Type}
+[19:56:31.0752] 	3 : &lt;CFString 00000231648F82E0 [00007FFC42CB9100]&gt;{contents = "FusingStatus"} = &lt;CFNumber 00000231569AB540 [00007FFC42CB9100]&gt;{value = +3, type = kCFNumberSInt32Type}
+[19:56:31.0752] 	4 : &lt;CFString 00000231648F8280 [00007FFC42CB9100]&gt;{contents = "Nonce"} = &lt;CFData 00000231648C9EF0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x0247ba364ccebb86046e041f514ae8fbb1f41457}
+[19:56:31.0752] 	5 : &lt;CFString 00000231648F86C0 [00007FFC42CB9100]&gt;{contents = "fused"} = &lt;CFBoolean 00007FFC42CBC2E0 [00007FFC42CB9100]&gt;{value = true}
+[19:56:31.0752] 	6 : &lt;CFString 00000231648C9C50 [00007FFC42CB9100]&gt;{contents = "attemptedToFuse"} = &lt;CFBoolean 00007FFC42CBC2F0 [00007FFC42CB9100]&gt;{value = false}
+[19:56:31.0752] 	10 : &lt;CFString 00000231648F8720 [00007FFC42CB9100]&gt;{contents = "done"} = &lt;CFBoolean 00007FFC42CBC2F0 [00007FFC42CB9100]&gt;{value = false}
+[19:56:31.0752] 	11 : &lt;CFString 00000231648F8200 [00007FFC42CB9100]&gt;{contents = "ChipSerialNo"} = &lt;CFData 00000231648C9BF0 [00007FFC42CB9100]&gt;{length = 4, capacity = 4, bytes = 0x37a83001}
+[19:56:31.0752] }
+[19:56:31.0752] 
+[19:56:31.0856] requested restore behavior: Update
+[19:56:31.0861] amai: AMAuthInstallBasebandSetParametersWithUpdaterOutput: baseband updater output: &lt;CFBasicHash 00000231645EAC10 [00007FFC42CB9100]&gt;{type = mutable dict, count = 7,
+[19:56:31.0861] entries =&gt;
+[19:56:31.0861] 	0 : &lt;CFString 00000231649FFD00 [00007FFC42CB9100]&gt;{contents = "CertHash"} = &lt;CFData 00000231648C9470 [00007FFC42CB9100]&gt;{length = 32, capacity = 32, bytes = 0xd3da5742033972363a4c924d38ecceff ... 95fb2105b9f1ae18}
+[19:56:31.0861] 	1 : &lt;CFString 00000231649FFD60 [00007FFC42CB9100]&gt;{contents = "CertID"} = &lt;CFNumber 00000231649FFF20 [00007FFC42CB9100]&gt;{value = +3554301762, type = kCFNumberSInt64Type}
+[19:56:31.0861] 	2 : &lt;CFString 00000231648F8200 [00007FFC42CB9100]&gt;{contents = "ChipID"} = &lt;CFNumber 00000231648F8140 [00007FFC42CB9100]&gt;{value = +7282913, type = kCFNumberSInt64Type}
+[19:56:31.0861] 	3 : &lt;CFString 00000231648F8160 [00007FFC42CB9100]&gt;{contents = "FusingStatus"} = &lt;CFNumber 00000231569AB540 [00007FFC42CB9100]&gt;{value = +3, type = kCFNumberSInt32Type}
+[19:56:31.0861] 	4 : &lt;CFString 00000231648F81C0 [00007FFC42CB9100]&gt;{contents = "Nonce"} = &lt;CFData 00000231648C9D10 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x0247ba364ccebb86046e041f514ae8fbb1f41457}
+[19:56:31.0861] 	5 : &lt;CFString 00000231648F8480 [00007FFC42CB9100]&gt;{contents = "VendorID"} = &lt;CFNumber 00000231569AB540 [00007FFC42CB9100]&gt;{value = +3, type = kCFNumberSInt32Type}
+[19:56:31.0861] 	11 : &lt;CFString 00000231648F8240 [00007FFC42CB9100]&gt;{contents = "ChipSerialNo"} = &lt;CFData 00000231648C9620 [00007FFC42CB9100]&gt;{length = 4, capacity = 4, bytes = 0x37a83001}
+[19:56:31.0861] }
+[19:56:31.0861] 
+[19:56:31.0862] amai: AMAuthInstallBasebandSetParametersWithUpdaterOutput: manifest dict not found
+[19:56:31.0862] amai: _AMAuthInstallBasebandCheckForParameterChange: eUICC Param 0 unchanged
+[19:56:31.0862] amai: _AMAuthInstallBasebandCheckForParameterChange: eUICC Param 1 unchanged
+[19:56:31.0862] amai: _AMAuthInstallBasebandCheckForParameterChange: eUICC Param 2 unchanged
+[19:56:31.0862] requested restore behavior: Update
+[19:56:31.0862] requested variant: Update
+[19:56:31.0862] requested restore behavior: Update
+[19:56:31.0862] personalizing: &lt;AMAuthInstall 00000231642FC560&gt;{ap=(personalize=YES n53ap ecid=0x30d4c69606c, chipid=0x8960, boardid=0x2, isProduction=YES, EPRO=YES, isSecure=YES, ESEC=YES, img4=YES, demotionPolicy=, baaCert=NO), bp=(personalize=YES, snum=0x37a83001, chipid=0x6f20e1, certid=0xd3da5742, nonce=0x0247ba364ccebb86046e041f514ae8fbb1f41457), UserAuth=NO, iTunes=YES, server="http://gs.apple.com:80", locale=en_US, version="libauthinstall_Win-521.50.21", platform=win/10.0(16299) }
+[19:56:31.0862] amai: _AMAuthInstallBundleShouldPersonalizeOS: Personalize OS = Yes
+[19:56:31.0862] amai: _AMAuthInstallBundleShouldPersonalizeOS: Personalize OS = Yes
+[19:56:31.0867] amai: AMAuthInstallBasebandCreateMeasurements: Using set ChipID 0x006F20E1 to measure
+[19:56:31.0869] amai: _FindSbl1HeaderInFileData: found SBL header
+[19:56:31.0869] amai: _FindSbl1HeaderInFileData: foundMagic=1
+[19:56:31.0869] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: fileSize=0x185b8, srcOffset=0x50, codeSize=0x16c68
+[19:56:31.0869] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: version=0xa4014dfc, personalizationOffset=0x16bf0
+[19:56:31.0869] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: reservationLength=0x78, codeBytesHashed=0x16c40 (ok)
+[19:56:32.0480] amai: _FindSbl1HeaderInFileData: found SBL header
+[19:56:32.0480] amai: _FindSbl1HeaderInFileData: foundMagic=1
+[19:56:32.0480] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: fileSize=0x1d584, srcOffset=0x50, codeSize=0x1bc34
+[19:56:32.0480] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: version=0xa4114dfc, personalizationOffset=0x1bbf0
+[19:56:32.0480] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: reservationLength=0x44, codeBytesHashed=0x1bc40 (ok)
+[19:56:32.0481] amai: BbfwReaderFindAndCopyFileData: failed to find bbfw item "vinyl/update/main/signedprofile.der": File error
+[19:56:32.0481] amai: BbfwReaderFindAndCopyFileData: failed to find bbfw item "vinyl/update/gold/signedprofile.der": File error
+[19:56:32.0481] amai: _AMAuthInstallBundleSetBasebandKeyHashes: setting (from build manifest): BbProvisioningManifestKeyHash = &lt;CFData 00000231648CD190 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xecc404532bf31b88238d973b2ac34d0154d2f20e}
+[19:56:32.0482] amai: _AMAuthInstallBundleSetBasebandKeyHashes: setting (from build manifest): BbActivationManifestKeyHash = &lt;CFData 00000231648CD0D0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xaea5cce143668d0efb4ce1f2c94c966a6496c6aa}
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: withApTicket is False
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreLogo"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreDeviceTree"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreKernelCache"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreRamDisk"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "OSRamdisk" not part of manifest, skipping
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBEC"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBSS"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "KernelCache"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "ftap" not part of manifest, skipping
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "rfta" not part of manifest, skipping
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "ftsp" not part of manifest, skipping
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "rfts" not part of manifest, skipping
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "Diags" not part of manifest, skipping
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "CFELoader" not part of manifest, skipping
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "RBM" not part of manifest, skipping
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PHLEET" not part of manifest, skipping
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PERTOS" not part of manifest, skipping
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PEHammer" not part of manifest, skipping
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "Alamo" not part of manifest, skipping
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "BasebandFirmware" has been previously personalized; skipping it
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: skipping "OS" entry
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "LLB"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "AppleLogo"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryCharging1"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "SEP"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryFull"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryPlugin"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryCharging0"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryLow1"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreSEP"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryLow0"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RecoveryMode"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "DeviceTree"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBoot"
+[19:56:32.0482] amai: _AMAuthInstallBundleCreateServerRequestDictionary: nothing to be done
+[19:56:36.0954] amai: AMAuthInstallBasebandHandleUpdaterStatus: commandAccepted: YES
+[19:56:36.0954] amai: AMAuthInstallBasebandHandleUpdaterStatus: outputDict: &lt;CFBasicHash 00000231645EAC10 [00007FFC42CB9100]&gt;{type = mutable dict, count = 9,
+[19:56:36.0954] entries =&gt;
+[19:56:36.0954] 	0 : &lt;CFString 0000023164734BE0 [00007FFC42CB9100]&gt;{contents = "CertHash"} = &lt;CFData 00000231648C96B0 [00007FFC42CB9100]&gt;{length = 32, capacity = 32, bytes = 0xd3da5742033972363a4c924d38ecceff ... 95fb2105b9f1ae18}
+[19:56:36.0954] 	1 : &lt;CFString 0000023164734D20 [00007FFC42CB9100]&gt;{contents = "CertID"} = &lt;CFNumber 00000231647349A0 [00007FFC42CB9100]&gt;{value = +3554301762, type = kCFNumberSInt64Type}
+[19:56:36.0954] 	2 : &lt;CFString 00000231647349C0 [00007FFC42CB9100]&gt;{contents = "ChipID"} = &lt;CFNumber 0000023164734DA0 [00007FFC42CB9100]&gt;{value = +7282913, type = kCFNumberSInt64Type}
+[19:56:36.0954] 	3 : &lt;CFString 0000023164735040 [00007FFC42CB9100]&gt;{contents = "FusingStatus"} = &lt;CFNumber 00000231569AB540 [00007FFC42CB9100]&gt;{value = +3, type = kCFNumberSInt32Type}
+[19:56:36.0954] 	4 : &lt;CFString 00000231647350A0 [00007FFC42CB9100]&gt;{contents = "Nonce"} = &lt;CFData 00000231648C9CE0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x0247ba364ccebb86046e041f514ae8fbb1f41457}
+[19:56:36.0954] 	5 : &lt;CFString 0000023164735000 [00007FFC42CB9100]&gt;{contents = "fused"} = &lt;CFBoolean 00007FFC42CBC2E0 [00007FFC42CB9100]&gt;{value = true}
+[19:56:36.0954] 	6 : &lt;CFString 00000231648C9D70 [00007FFC42CB9100]&gt;{contents = "attemptedToFuse"} = &lt;CFBoolean 00007FFC42CBC2F0 [00007FFC42CB9100]&gt;{value = false}
+[19:56:36.0954] 	10 : &lt;CFString 0000023164734F20 [00007FFC42CB9100]&gt;{contents = "done"} = &lt;CFBoolean 00007FFC42CBC2F0 [00007FFC42CB9100]&gt;{value = false}
+[19:56:36.0954] 	11 : &lt;CFString 0000023164734DC0 [00007FFC42CB9100]&gt;{contents = "ChipSerialNo"} = &lt;CFData 00000231648C9710 [00007FFC42CB9100]&gt;{length = 4, capacity = 4, bytes = 0x37a83001}
+[19:56:36.0954] }
+[19:56:36.0954] 
+[19:56:36.0971] requested restore behavior: Update
+[19:56:36.0973] amai: AMAuthInstallBasebandSetParametersWithUpdaterOutput: baseband updater output: &lt;CFBasicHash 00000231645EADD0 [00007FFC42CB9100]&gt;{type = mutable dict, count = 7,
+[19:56:36.0973] entries =&gt;
+[19:56:36.0973] 	0 : &lt;CFString 00000231649FFD00 [00007FFC42CB9100]&gt;{contents = "CertHash"} = &lt;CFData 00000231648C9470 [00007FFC42CB9100]&gt;{length = 32, capacity = 32, bytes = 0xd3da5742033972363a4c924d38ecceff ... 95fb2105b9f1ae18}
+[19:56:36.0973] 	1 : &lt;CFString 00000231649FFF20 [00007FFC42CB9100]&gt;{contents = "CertID"} = &lt;CFNumber 00000231649FFD60 [00007FFC42CB9100]&gt;{value = +3554301762, type = kCFNumberSInt64Type}
+[19:56:36.0973] 	2 : &lt;CFString 00000231648F8140 [00007FFC42CB9100]&gt;{contents = "ChipID"} = &lt;CFNumber 00000231648F8260 [00007FFC42CB9100]&gt;{value = +7282913, type = kCFNumberSInt64Type}
+[19:56:36.0973] 	3 : &lt;CFString 00000231648F81C0 [00007FFC42CB9100]&gt;{contents = "FusingStatus"} = &lt;CFNumber 00000231569AB540 [00007FFC42CB9100]&gt;{value = +3, type = kCFNumberSInt32Type}
+[19:56:36.0973] 	4 : &lt;CFString 00000231648F8440 [00007FFC42CB9100]&gt;{contents = "Nonce"} = &lt;CFData 00000231648C9710 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x0247ba364ccebb86046e041f514ae8fbb1f41457}
+[19:56:36.0973] 	5 : &lt;CFString 00000231648F8480 [00007FFC42CB9100]&gt;{contents = "VendorID"} = &lt;CFNumber 00000231569AB540 [00007FFC42CB9100]&gt;{value = +3, type = kCFNumberSInt32Type}
+[19:56:36.0973] 	11 : &lt;CFString 00000231648F82C0 [00007FFC42CB9100]&gt;{contents = "ChipSerialNo"} = &lt;CFData 00000231648C9530 [00007FFC42CB9100]&gt;{length = 4, capacity = 4, bytes = 0x37a83001}
+[19:56:36.0973] }
+[19:56:36.0973] 
+[19:56:36.0973] amai: AMAuthInstallBasebandSetParametersWithUpdaterOutput: manifest dict not found
+[19:56:36.0973] amai: _AMAuthInstallBasebandCheckForParameterChange: eUICC Param 0 unchanged
+[19:56:36.0973] amai: _AMAuthInstallBasebandCheckForParameterChange: eUICC Param 1 unchanged
+[19:56:36.0973] amai: _AMAuthInstallBasebandCheckForParameterChange: eUICC Param 2 unchanged
+[19:56:36.0973] requested restore behavior: Update
+[19:56:36.0973] requested variant: Update
+[19:56:36.0973] requested restore behavior: Update
+[19:56:36.0973] personalizing: &lt;AMAuthInstall 00000231642FC560&gt;{ap=(personalize=YES n53ap ecid=0x30d4c69606c, chipid=0x8960, boardid=0x2, isProduction=YES, EPRO=YES, isSecure=YES, ESEC=YES, img4=YES, demotionPolicy=, baaCert=NO), bp=(personalize=YES, snum=0x37a83001, chipid=0x6f20e1, certid=0xd3da5742, nonce=0x0247ba364ccebb86046e041f514ae8fbb1f41457), UserAuth=NO, iTunes=YES, server="http://gs.apple.com:80", locale=en_US, version="libauthinstall_Win-521.50.21", platform=win/10.0(16299) }
+[19:56:36.0973] amai: _AMAuthInstallBundleShouldPersonalizeOS: Personalize OS = Yes
+[19:56:36.0973] amai: _AMAuthInstallBundleShouldPersonalizeOS: Personalize OS = Yes
+[19:56:36.0975] amai: AMAuthInstallBasebandCreateMeasurements: Using set ChipID 0x006F20E1 to measure
+[19:56:36.0977] amai: _FindSbl1HeaderInFileData: found SBL header
+[19:56:36.0977] amai: _FindSbl1HeaderInFileData: foundMagic=1
+[19:56:36.0977] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: fileSize=0x185b8, srcOffset=0x50, codeSize=0x16c68
+[19:56:36.0977] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: version=0xa4014dfc, personalizationOffset=0x16bf0
+[19:56:36.0977] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: reservationLength=0x78, codeBytesHashed=0x16c40 (ok)
+[19:56:37.0543] amai: _FindSbl1HeaderInFileData: found SBL header
+[19:56:37.0543] amai: _FindSbl1HeaderInFileData: foundMagic=1
+[19:56:37.0543] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: fileSize=0x1d584, srcOffset=0x50, codeSize=0x1bc34
+[19:56:37.0543] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: version=0xa4114dfc, personalizationOffset=0x1bbf0
+[19:56:37.0543] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: reservationLength=0x44, codeBytesHashed=0x1bc40 (ok)
+[19:56:37.0544] amai: BbfwReaderFindAndCopyFileData: failed to find bbfw item "vinyl/update/main/signedprofile.der": File error
+[19:56:37.0544] amai: BbfwReaderFindAndCopyFileData: failed to find bbfw item "vinyl/update/gold/signedprofile.der": File error
+[19:56:37.0545] amai: _AMAuthInstallBundleSetBasebandKeyHashes: setting (from build manifest): BbProvisioningManifestKeyHash = &lt;CFData 00000231648CD190 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xecc404532bf31b88238d973b2ac34d0154d2f20e}
+[19:56:37.0545] amai: _AMAuthInstallBundleSetBasebandKeyHashes: setting (from build manifest): BbActivationManifestKeyHash = &lt;CFData 00000231648CD0D0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xaea5cce143668d0efb4ce1f2c94c966a6496c6aa}
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: withApTicket is False
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreLogo"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreDeviceTree"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreKernelCache"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreRamDisk"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "OSRamdisk" not part of manifest, skipping
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBEC"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBSS"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "KernelCache"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "ftap" not part of manifest, skipping
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "rfta" not part of manifest, skipping
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "ftsp" not part of manifest, skipping
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "rfts" not part of manifest, skipping
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "Diags" not part of manifest, skipping
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "CFELoader" not part of manifest, skipping
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "RBM" not part of manifest, skipping
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PHLEET" not part of manifest, skipping
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PERTOS" not part of manifest, skipping
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PEHammer" not part of manifest, skipping
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "Alamo" not part of manifest, skipping
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "BasebandFirmware" has been previously personalized; skipping it
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: skipping "OS" entry
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "LLB"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "AppleLogo"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryCharging1"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "SEP"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryFull"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryPlugin"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryCharging0"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryLow1"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreSEP"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryLow0"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RecoveryMode"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "DeviceTree"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBoot"
+[19:56:37.0545] amai: _AMAuthInstallBundleCreateServerRequestDictionary: nothing to be done
+[19:56:40.0021] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 0
+[19:56:40.0219] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 0
+[19:56:40.0651] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 0
+[19:56:40.0656] amai: AMAuthInstallBasebandHandleUpdaterStatus: commandAccepted: YES
+[19:56:40.0656] amai: AMAuthInstallBasebandHandleUpdaterStatus: outputDict: &lt;CFBasicHash 00000231645EB110 [00007FFC42CB9100]&gt;{type = mutable dict, count = 9,
+[19:56:40.0656] entries =&gt;
+[19:56:40.0656] 	0 : &lt;CFString 0000023164734C80 [00007FFC42CB9100]&gt;{contents = "CertHash"} = &lt;CFData 00000231648C9EC0 [00007FFC42CB9100]&gt;{length = 32, capacity = 32, bytes = 0xd3da5742033972363a4c924d38ecceff ... 95fb2105b9f1ae18}
+[19:56:40.0656] 	1 : &lt;CFString 00000231647349A0 [00007FFC42CB9100]&gt;{contents = "CertID"} = &lt;CFNumber 00000231647349C0 [00007FFC42CB9100]&gt;{value = +3554301762, type = kCFNumberSInt64Type}
+[19:56:40.0656] 	2 : &lt;CFString 00000231647349E0 [00007FFC42CB9100]&gt;{contents = "ChipID"} = &lt;CFNumber 00000231647350A0 [00007FFC42CB9100]&gt;{value = +7282913, type = kCFNumberSInt64Type}
+[19:56:40.0656] 	3 : &lt;CFString 0000023164734E00 [00007FFC42CB9100]&gt;{contents = "FusingStatus"} = &lt;CFNumber 00000231569AB540 [00007FFC42CB9100]&gt;{value = +3, type = kCFNumberSInt32Type}
+[19:56:40.0656] 	4 : &lt;CFString 0000023164735000 [00007FFC42CB9100]&gt;{contents = "Nonce"} = &lt;CFData 00000231648C9B30 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x0247ba364ccebb86046e041f514ae8fbb1f41457}
+[19:56:40.0656] 	5 : &lt;CFString 00000231647350E0 [00007FFC42CB9100]&gt;{contents = "fused"} = &lt;CFBoolean 00007FFC42CBC2E0 [00007FFC42CB9100]&gt;{value = true}
+[19:56:40.0656] 	6 : &lt;CFString 00000231648C9EF0 [00007FFC42CB9100]&gt;{contents = "attemptedToFuse"} = &lt;CFBoolean 00007FFC42CBC2F0 [00007FFC42CB9100]&gt;{value = false}
+[19:56:40.0656] 	10 : &lt;CFString 0000023164735100 [00007FFC42CB9100]&gt;{contents = "done"} = &lt;CFBoolean 00007FFC42CBC2F0 [00007FFC42CB9100]&gt;{value = false}
+[19:56:40.0656] 	11 : &lt;CFString 00000231647350C0 [00007FFC42CB9100]&gt;{contents = "ChipSerialNo"} = &lt;CFData 00000231648C9AD0 [00007FFC42CB9100]&gt;{length = 4, capacity = 4, bytes = 0x37a83001}
+[19:56:40.0656] }
+[19:56:40.0656] 
+[19:56:40.0675] requested restore behavior: Update
+[19:56:40.0679] amai: AMAuthInstallBasebandSetParametersWithUpdaterOutput: baseband updater output: &lt;CFBasicHash 00000231645EAD50 [00007FFC42CB9100]&gt;{type = mutable dict, count = 7,
+[19:56:40.0679] entries =&gt;
+[19:56:40.0679] 	0 : &lt;CFString 00000231649FFB60 [00007FFC42CB9100]&gt;{contents = "CertHash"} = &lt;CFData 00000231648C9470 [00007FFC42CB9100]&gt;{length = 32, capacity = 32, bytes = 0xd3da5742033972363a4c924d38ecceff ... 95fb2105b9f1ae18}
+[19:56:40.0679] 	1 : &lt;CFString 00000231649FFE20 [00007FFC42CB9100]&gt;{contents = "CertID"} = &lt;CFNumber 00000231649FFF20 [00007FFC42CB9100]&gt;{value = +3554301762, type = kCFNumberSInt64Type}
+[19:56:40.0679] 	2 : &lt;CFString 00000231648F8440 [00007FFC42CB9100]&gt;{contents = "ChipID"} = &lt;CFNumber 00000231648F8480 [00007FFC42CB9100]&gt;{value = +7282913, type = kCFNumberSInt64Type}
+[19:56:40.0679] 	3 : &lt;CFString 00000231648F81E0 [00007FFC42CB9100]&gt;{contents = "FusingStatus"} = &lt;CFNumber 00000231569AB540 [00007FFC42CB9100]&gt;{value = +3, type = kCFNumberSInt32Type}
+[19:56:40.0679] 	4 : &lt;CFString 00000231648F8160 [00007FFC42CB9100]&gt;{contents = "Nonce"} = &lt;CFData 00000231648C9CE0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x0247ba364ccebb86046e041f514ae8fbb1f41457}
+[19:56:40.0679] 	5 : &lt;CFString 00000231648F8200 [00007FFC42CB9100]&gt;{contents = "VendorID"} = &lt;CFNumber 00000231569AB540 [00007FFC42CB9100]&gt;{value = +3, type = kCFNumberSInt32Type}
+[19:56:40.0679] 	11 : &lt;CFString 00000231648F81A0 [00007FFC42CB9100]&gt;{contents = "ChipSerialNo"} = &lt;CFData 00000231648C9620 [00007FFC42CB9100]&gt;{length = 4, capacity = 4, bytes = 0x37a83001}
+[19:56:40.0679] }
+[19:56:40.0679] 
+[19:56:40.0679] amai: AMAuthInstallBasebandSetParametersWithUpdaterOutput: manifest dict not found
+[19:56:40.0679] amai: _AMAuthInstallBasebandCheckForParameterChange: eUICC Param 0 unchanged
+[19:56:40.0679] amai: _AMAuthInstallBasebandCheckForParameterChange: eUICC Param 1 unchanged
+[19:56:40.0679] amai: _AMAuthInstallBasebandCheckForParameterChange: eUICC Param 2 unchanged
+[19:56:40.0679] requested restore behavior: Update
+[19:56:40.0679] requested variant: Update
+[19:56:40.0680] requested restore behavior: Update
+[19:56:40.0680] personalizing: &lt;AMAuthInstall 00000231642FC560&gt;{ap=(personalize=YES n53ap ecid=0x30d4c69606c, chipid=0x8960, boardid=0x2, isProduction=YES, EPRO=YES, isSecure=YES, ESEC=YES, img4=YES, demotionPolicy=, baaCert=NO), bp=(personalize=YES, snum=0x37a83001, chipid=0x6f20e1, certid=0xd3da5742, nonce=0x0247ba364ccebb86046e041f514ae8fbb1f41457), UserAuth=NO, iTunes=YES, server="http://gs.apple.com:80", locale=en_US, version="libauthinstall_Win-521.50.21", platform=win/10.0(16299) }
+[19:56:40.0680] amai: _AMAuthInstallBundleShouldPersonalizeOS: Personalize OS = Yes
+[19:56:40.0680] amai: _AMAuthInstallBundleShouldPersonalizeOS: Personalize OS = Yes
+[19:56:40.0684] amai: AMAuthInstallBasebandCreateMeasurements: Using set ChipID 0x006F20E1 to measure
+[19:56:40.0686] amai: _FindSbl1HeaderInFileData: found SBL header
+[19:56:40.0686] amai: _FindSbl1HeaderInFileData: foundMagic=1
+[19:56:40.0686] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: fileSize=0x185b8, srcOffset=0x50, codeSize=0x16c68
+[19:56:40.0686] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: version=0xa4014dfc, personalizationOffset=0x16bf0
+[19:56:40.0686] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: reservationLength=0x78, codeBytesHashed=0x16c40 (ok)
+[19:56:41.0270] amai: _FindSbl1HeaderInFileData: found SBL header
+[19:56:41.0270] amai: _FindSbl1HeaderInFileData: foundMagic=1
+[19:56:41.0270] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: fileSize=0x1d584, srcOffset=0x50, codeSize=0x1bc34
+[19:56:41.0271] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: version=0xa4114dfc, personalizationOffset=0x1bbf0
+[19:56:41.0271] amai: AMAuthInstallMonetSetVersionAndPartialDigestForSBL: reservationLength=0x44, codeBytesHashed=0x1bc40 (ok)
+[19:56:41.0271] amai: BbfwReaderFindAndCopyFileData: failed to find bbfw item "vinyl/update/main/signedprofile.der": File error
+[19:56:41.0272] amai: BbfwReaderFindAndCopyFileData: failed to find bbfw item "vinyl/update/gold/signedprofile.der": File error
+[19:56:41.0272] amai: _AMAuthInstallBundleSetBasebandKeyHashes: setting (from build manifest): BbProvisioningManifestKeyHash = &lt;CFData 00000231648CD190 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xecc404532bf31b88238d973b2ac34d0154d2f20e}
+[19:56:41.0272] amai: _AMAuthInstallBundleSetBasebandKeyHashes: setting (from build manifest): BbActivationManifestKeyHash = &lt;CFData 00000231648CD0D0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xaea5cce143668d0efb4ce1f2c94c966a6496c6aa}
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: withApTicket is False
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreLogo"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreDeviceTree"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreKernelCache"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreRamDisk"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "OSRamdisk" not part of manifest, skipping
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBEC"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBSS"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "KernelCache"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "ftap" not part of manifest, skipping
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "rfta" not part of manifest, skipping
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "ftsp" not part of manifest, skipping
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "rfts" not part of manifest, skipping
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "Diags" not part of manifest, skipping
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "CFELoader" not part of manifest, skipping
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "RBM" not part of manifest, skipping
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PHLEET" not part of manifest, skipping
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PERTOS" not part of manifest, skipping
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "PEHammer" not part of manifest, skipping
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "Alamo" not part of manifest, skipping
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: entry "BasebandFirmware" has been previously personalized; skipping it
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: skipping "OS" entry
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "LLB"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "AppleLogo"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryCharging1"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "SEP"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryFull"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryPlugin"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryCharging0"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryLow1"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RestoreSEP"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "BatteryLow0"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "RecoveryMode"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "DeviceTree"
+[19:56:41.0272] amai: _AMAuthInstallBundleCreateServerRequestDictionary: not personalizing "iBoot"
+[19:56:41.0273] amai: _AMAuthInstallBundleCreateServerRequestDictionary: nothing to be done
+[19:56:43.0031] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 0
+[19:56:43.0037] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 0
+[19:56:43.0080] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 0
+[19:56:43.0089] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 0
+[19:56:43.0098] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 0
+[19:56:43.0123] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 1
+[19:56:43.0141] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 1
+[19:56:43.0142] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 1
+[19:56:43.0144] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 1
+[19:56:43.0158] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 1
+[19:56:43.0170] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 1
+[19:56:43.0178] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 1
+[19:56:43.0184] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 2
+[19:56:43.0227] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 2
+[19:56:43.0269] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 3
+[19:56:43.0309] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 4
+[19:56:43.0350] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 6
+[19:56:43.0375] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 7
+[19:56:43.0389] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 8
+[19:56:43.0406] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 8
+[19:56:43.0415] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 9
+[19:56:43.0423] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 9
+[19:56:43.0465] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 9
+[19:56:43.0508] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 10
+[19:56:43.0562] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 12
+[19:56:43.0608] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 13
+[19:56:43.0670] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 14
+[19:56:43.0728] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 15
+[19:56:43.0790] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 17
+[19:56:43.0839] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 18
+[19:56:43.0872] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 19
+[19:56:43.0905] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 19
+[19:56:43.0924] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 20
+[19:56:43.0943] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 20
+[19:56:43.0950] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 20
+[19:56:44.0023] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 20
+[19:56:44.0101] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 21
+[19:56:44.0176] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 23
+[19:56:44.0257] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 24
+[19:56:44.0327] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 25
+[19:56:44.0388] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 26
+[19:56:44.0466] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 28
+[19:56:44.0542] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 29
+[19:56:44.0615] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 30
+[19:56:44.0684] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 32
+[19:56:44.0732] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 33
+[19:56:44.0800] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 34
+[19:56:44.0866] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 35
+[19:56:44.0897] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 37
+[19:56:44.0918] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 37
+[19:56:44.0937] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 38
+[19:56:44.0955] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 38
+[19:56:44.0963] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 38
+[19:56:45.0022] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 38
+[19:56:45.0081] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 40
+[19:56:45.0143] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 41
+[19:56:45.0199] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 42
+[19:56:45.0259] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 44
+[19:56:45.0298] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 45
+[19:56:45.0322] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 46
+[19:56:45.0344] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 46
+[19:56:45.0361] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 47
+[19:56:45.0376] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 47
+[19:56:45.0396] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 47
+[19:56:45.0417] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 47
+[19:56:45.0431] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 48
+[19:56:45.0443] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 48
+[19:56:45.0453] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 48
+[19:56:45.0458] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 48
+[19:56:45.0468] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 49
+[19:56:45.0509] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 49
+[19:56:45.0513] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 49
+[19:56:45.0518] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 49
+[19:56:45.0559] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 49
+[19:56:45.0636] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 56
+[19:56:45.0687] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 63
+[19:56:45.0720] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 68
+[19:56:45.0743] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 70
+[19:56:45.0766] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 72
+[19:56:45.0801] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 73
+[19:56:45.0820] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 74
+[19:56:45.0827] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 77
+[19:56:45.0847] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 79
+[19:56:45.0861] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 80
+[19:56:45.0876] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 81
+[19:56:45.0883] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 82
+[19:56:45.0905] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 82
+[19:56:45.0930] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 87
+[19:56:45.0947] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 91
+[19:56:45.0960] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 94
+[19:56:45.0971] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 95
+[19:56:45.0981] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0006] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0011] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0016] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0020] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0072] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0106] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0130] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0152] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0160] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0185] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0204] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0223] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0237] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0255] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0266] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0274] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0279] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0286] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0294] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0300] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0314] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0332] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0333] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0337] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0346] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0353] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0363] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0373] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0387] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0397] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0423] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0427] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0432] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0448] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0459] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0465] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0470] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0475] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0528] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 97
+[19:56:46.0559] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 98
+[19:56:46.0577] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 99
+[19:56:46.0594] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 99
+[19:56:46.0601] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 99
+[19:56:46.0611] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 99
+[19:56:46.0618] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 99
+[19:56:46.0627] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 99
+[19:56:46.0639] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 99
+[19:56:46.0648] &lt;Restore Device 0000023163F1CF60&gt;: operation 19 progress 100
+[19:56:52.0413] amai: AMAuthInstallBasebandHandleUpdaterStatus: commandAccepted: YES
+[19:56:52.0413] amai: AMAuthInstallBasebandHandleUpdaterStatus: outputDict: &lt;CFBasicHash 00000231645EAAD0 [00007FFC42CB9100]&gt;{type = mutable dict, count = 11,
+[19:56:52.0413] entries =&gt;
+[19:56:52.0413] 	0 : &lt;CFString 0000023164734B00 [00007FFC42CB9100]&gt;{contents = "CertHash"} = &lt;CFData 00000231648C9530 [00007FFC42CB9100]&gt;{length = 32, capacity = 32, bytes = 0xd3da5742033972363a4c924d38ecceff ... 95fb2105b9f1ae18}
+[19:56:52.0413] 	1 : &lt;CFString 0000023164734C20 [00007FFC42CB9100]&gt;{contents = "CertID"} = &lt;CFNumber 00000231647349A0 [00007FFC42CB9100]&gt;{value = +3554301762, type = kCFNumberSInt64Type}
+[19:56:52.0413] 	2 : &lt;CFString 0000023164734A20 [00007FFC42CB9100]&gt;{contents = "ChipID"} = &lt;CFNumber 0000023164734E00 [00007FFC42CB9100]&gt;{value = +7282913, type = kCFNumberSInt64Type}
+[19:56:52.0413] 	3 : &lt;CFString 0000023164735000 [00007FFC42CB9100]&gt;{contents = "FusingStatus"} = &lt;CFNumber 00000231569AB540 [00007FFC42CB9100]&gt;{value = +3, type = kCFNumberSInt32Type}
+[19:56:52.0413] 	4 : &lt;CFString 00000231647350A0 [00007FFC42CB9100]&gt;{contents = "Nonce"} = &lt;CFData 00000231648C9EC0 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0x0247ba364ccebb86046e041f514ae8fbb1f41457}
+[19:56:52.0413] 	5 : &lt;CFString 0000023164734F40 [00007FFC42CB9100]&gt;{contents = "fused"} = &lt;CFBoolean 00007FFC42CBC2E0 [00007FFC42CB9100]&gt;{value = true}
+[19:56:52.0413] 	6 : &lt;CFString 00000231648C9D70 [00007FFC42CB9100]&gt;{contents = "attemptedToFuse"} = &lt;CFBoolean 00007FFC42CBC2F0 [00007FFC42CB9100]&gt;{value = false}
+[19:56:52.0413] 	8 : &lt;CFString 0000023164734D40 [00007FFC42CB9100]&gt;{contents = "provisioning"} = &lt;CFBasicHash 00000231645EB110 [00007FFC42CB9100]&gt;{type = mutable dict, count = 1,
+[19:56:52.0413] entries =&gt;
+[19:56:52.0413] 	0 : &lt;CFString 0000023164735360 [00007FFC42CB9100]&gt;{contents = "Status"} = &lt;CFNumber 00000231569AB520 [00007FFC42CB9100]&gt;{value = +1, type = kCFNumberSInt32Type}
+[19:56:52.0413] }
+[19:56:52.0413] 
+[19:56:52.0413] 	10 : &lt;CFString 0000023164734F00 [00007FFC42CB9100]&gt;{contents = "done"} = &lt;CFBoolean 00007FFC42CBC2E0 [00007FFC42CB9100]&gt;{value = true}
+[19:56:52.0413] 	11 : &lt;CFString 00000231647350C0 [00007FFC42CB9100]&gt;{contents = "ChipSerialNo"} = &lt;CFData 00000231648C96B0 [00007FFC42CB9100]&gt;{length = 4, capacity = 4, bytes = 0x37a83001}
+[19:56:52.0413] 	12 : &lt;CFString 0000023164734E80 [00007FFC42CB9100]&gt;{contents = "ManifestInfo"} = &lt;CFBasicHash 00000231645EAB10 [00007FFC42CB9100]&gt;{type = mutable dict, count = 4,
+[19:56:52.0413] entries =&gt;
+[19:56:52.0413] 	0 : &lt;CFString 0000023164735020 [00007FFC42CB9100]&gt;{contents = "CMStatusCode"} = &lt;CFNumber 00000231569ABD00 [00007FFC42CB9100]&gt;{value = +6, type = kCFNumberSInt32Type}
+[19:56:52.0413] 	2 : &lt;CFString 0000023164734EC0 [00007FFC42CB9100]&gt;{contents = "SKeyStatus"} = &lt;CFNumber 00000231569AB840 [00007FFC42CB9100]&gt;{value = +0, type = kCFNumberSInt32Type}
+[19:56:52.0413] 	10 : &lt;CFString 0000023164734DC0 [00007FFC42CB9100]&gt;{contents = "SKeyHash"} = &lt;CFData 00000231648C9710 [00007FFC42CB9100]&gt;{length = 20, capacity = 20, bytes = 0xecc404532bf31b88238d973b2ac34d0154d2f20e}
+[19:56:52.0413] 	11 : &lt;CFString 0000023164734DA0 [00007FFC42CB9100]&gt;{contents = "PMStatusCode"} = &lt;CFNumber 00000231569AB840 [00007FFC42CB9100]&gt;{value = +0, type = kCFNumberSInt32Type}
+[19:56:52.0413] }
+[19:56:52.0413] 
+[19:56:52.0413] }
+[19:56:52.0413] 
+[19:56:52.0451]   Started checkpoint id: 0x1309
+[19:56:52.0465] Completed checkpoint id: 0x1309
+[19:56:52.0546] &lt;Restore Device 0000023163F1CF60&gt;: operation 17 progress -1
+[19:58:18.0346]   Started checkpoint id: 0xF03
+[19:58:18.0379] Completed checkpoint id: 0xF03
+[19:58:18.0399]   Started checkpoint id: 0x664
+[19:58:18.0403] Completed checkpoint id: 0x664
+[19:58:18.0416] &lt;Restore Device 0000023163F1CF60&gt;: operation 25 progress -1
+[19:58:18.0463]   Started checkpoint id: 0x668
+[19:58:18.0467]   Started checkpoint id: 0x1501
+[19:58:18.0473] Completed checkpoint id: 0x1501
+[19:58:18.0485] Completed checkpoint id: 0x668
+[19:58:18.0489]   Started checkpoint id: 0x63D
+[19:58:18.0492] Completed checkpoint id: 0x63D
+[19:58:18.0496]   Started checkpoint id: 0x63F
+[19:58:18.0500] Completed checkpoint id: 0x63F
+[19:58:18.0504]   Started checkpoint id: 0x640
+[19:58:18.0555] Completed checkpoint id: 0x640
+[19:58:18.0559]   Started checkpoint id: 0x669
+[19:58:18.0691] Completed checkpoint id: 0x669
+[19:58:18.0694]   Started checkpoint id: 0x642
+[19:58:18.0696] &lt;Restore Device 0000023163F1CF60&gt;: operation 29 progress -1
+[19:58:18.0703] &lt;Restore Device 0000023163F1CF60&gt;: operation 29 progress -1
+[19:58:18.0779] Completed checkpoint id: 0x642
+[19:58:18.0782]   Started checkpoint id: 0x647
+[19:58:18.0786] Completed checkpoint id: 0x647
+[19:58:18.0789]   Started checkpoint id: 0x648
+[19:58:18.0790] device returned success
+[19:58:18.0790] Sending acknowledgement that final status was received
+[19:58:18.0790] &lt;Restore Device 0000023163F1CF60&gt;: Restore succeeded
+[19:58:18.0790] Finished RestoreOS Restore Phase: Successful
+[19:58:18.0790] Sending restore complete event immediately as requested in restore options
+[19:58:18.0791] Restore completed, status:0
+[19:58:18.0791] 
+[19:58:18.0791] =====================================================
+[19:58:18.0791]  Successfully restored 
+[19:58:18.0791] =====================================================
+[19:58:18.0791] Changing state from 'Restoring' to 'Success'
+[19:58:18.0791] Restore was successful
+</string>
+				<key>description</key>
+				<string>iPhone updater log</string>
+				<key>lastModified</key>
+				<date>2018-06-13T19:58:18Z</date>
+				<key>path</key>
+				<string>C:\Users\hadmars\AppData\Roaming\Apple Computer\iTunes\iPhone Updater Logs\iPhoneUpdater 1.log</string>
+				<key>size</key>
+				<integer>119146</integer>
+			</dict>
+			<dict>
+				<key>_name</key>
+				<string>iPhoneUpdater.log</string>
+				<key>contents</key>
+				<string>2018-06-14 03:30:56.119 [16004:19d0]: restore library built Apr 27 2018 at 12:02:43
+2018-06-14 03:30:56.119 [16004:19d0]: iTunes: iTunes 12.7.5.9
+2018-06-14 03:30:56.122 [16004:19d0]: iTunes: Current software version: 15D100
+2018-06-14 03:30:56.123 [16004:19d0]: iTunes: Software payload version: Unspecified
+2018-06-14 03:30:56.123 [16004:19d0]: iTunes: Using MobileRestore state machine
+</string>
+				<key>description</key>
+				<string>iPhone updater log</string>
+				<key>lastModified</key>
+				<date>2018-06-13T19:30:56Z</date>
+				<key>path</key>
+				<string>C:\Users\hadmars\AppData\Roaming\Apple Computer\iTunes\iPhone Updater Logs\iPhoneUpdater.log</string>
+				<key>size</key>
+				<integer>394</integer>
+			</dict>
+			<dict>
+				<key>_name</key>
+				<string>AMDS Time Zones</string>
+				<key>contents</key>
+				<string>DST unknown
+bias -480
+zones {
+    daylight =     {
+        bias = "-60";
+        name = "W. Australia Daylight Time";
+        transition = "zone does not support DST or user has disabled automatic transitions";
+    };
+    standard =     {
+        bias = 0;
+        name = "W. Australia Standard Time";
+        transition = "zone does not support DST or user has disabled automatic transitions";
+    };
+}
+</string>
+				<key>description</key>
+				<string>iPhone/iPod touch sync test log</string>
+				<key>lastModified</key>
+				<date>2018-06-21T13:51:46Z</date>
+				<key>path</key>
+				<string>C:\Users\hadmars\AppData\Roaming\Apple Computer\iTunes\Apple Mobile Device Sync Diagnostics Logs\AMDS Time Zones</string>
+				<key>size</key>
+				<integer>404</integer>
+			</dict>
+			<dict>
+				<key>_name</key>
+				<string>AMDS Versions</string>
+				<key>contents</key>
+				<string>ATH.exe 4015.905.1.33
+ATH_main.dll 4015.905.1.33
+AirTrafficHost.dll 4015.905.1.33
+AppleMobileBackup.exe 1655.3.0.31
+AppleMobileBackup_main.dll 1655.3.0.31
+AppleMobileDeviceHelper.exe 971.5.0.35
+AppleMobileDeviceHelper_main.dll 971.5.0.35
+AppleMobileSync.exe 971.5.0.35
+AppleMobileSync_main.dll 971.5.0.35
+AppleSyncMapiInterface.dll 37.0.0.214
+AppleSyncMapiInterfaceHelper_x64.exe 37.0.0.214
+DeviceLink.dll 270.0.0.146
+MDCrashReportTool.exe 1022.0.0.78
+MDCrashReportTool_main.dll 1022.0.0.78
+Mingler.exe 669.22.0.255
+Mingler_main.dll 669.22.0.255
+MobileDevice.dll 988.50.16.4
+SyncDiagnostics.exe 669.22.0.255
+SyncDiagnostics_main.dll 669.22.0.255
+SyncPlanObserver.exe 669.22.0.255
+SyncPlanObserver_main.dll 669.22.0.255
+SyncServer.exe 669.22.0.255
+SyncServer_main.dll 669.22.0.255
+SyncServices.dll 669.22.0.255
+SyncServicesUI.dll 669.22.0.255
+SyncServices\Clients\com.apple.IE\com.apple.IE.isRegistered.dll 68.0.0.244
+SyncServices\Clients\com.apple.Outlook\com.apple.Outlook.isRegistered.dll 101.0.0.241
+SyncServices\Clients\com.apple.Safari\com.apple.Safari.isRegistered.dll 56.0.0.238
+SyncServices\Clients\com.apple.WindowsContacts\com.apple.WindowsContacts.isRegistered.dll 22.0.0.235
+SyncServices\Clients\com.apple.WindowsMail\com.apple.WindowsMail.isRegistered.dll 59.0.0.241
+SyncServices\Schemas\Bookmarks.syncschema\Contents\Windows\Bookmarks.dll 235.0.0.243
+SyncServices\Schemas\Calendars.syncschema\Contents\Windows\Calendars.dll 235.0.0.243
+SyncServices\Schemas\Contacts.syncschema\Contents\Windows\Contacts.dll 235.0.0.243
+SyncServices\Schemas\Notes.syncschema\Contents\Windows\Notes.dll 235.0.0.243
+SyncUICore.Resources\en.lproj\SyncUICoreLocalized.dll 1.8.0.262
+SyncUICore.dll 1.8.0.262
+SyncUIHandler.exe 17.17.0.279
+SyncUIHandlerDll.dll 17.17.0.279
+SyncUIHandler_main.dll 17.17.0.279
+com.apple.IE.client.exe 68.0.0.244
+com.apple.IE.client_main.dll 68.0.0.244
+com.apple.Outlook.client.exe 101.0.0.241
+com.apple.Outlook.client_main.dll 101.0.0.241
+com.apple.Safari.client.exe 56.0.0.238
+com.apple.Safari.client_main.dll 56.0.0.238
+com.apple.WindowsContacts.client.exe 22.0.0.235
+com.apple.WindowsContacts.client_main.dll 22.0.0.235
+com.apple.WindowsMail.client.exe 59.0.0.241
+com.apple.WindowsMail.client_main.dll 59.0.0.241
+iSyncConduit.dll 16.0.0.281
+libcurl.dll 10.2.0.287
+libeay32.dll 0.9.9.2
+ssleay32.dll 0.9.9.2
+syncli.exe 669.22.0.255
+syncli_main.dll 669.22.0.255
+upgradedb.exe 669.22.0.255
+upgradedb_main.dll 669.22.0.255
+</string>
+				<key>description</key>
+				<string>iPhone/iPod touch sync test log</string>
+				<key>lastModified</key>
+				<date>2018-06-21T13:51:46Z</date>
+				<key>path</key>
+				<string>C:\Users\hadmars\AppData\Roaming\Apple Computer\iTunes\Apple Mobile Device Sync Diagnostics Logs\AMDS Versions</string>
+				<key>size</key>
+				<integer>2441</integer>
+			</dict>
+		</array>
+		<key>_parentDataType</key>
+		<string>SPSoftwareDataType</string>
+		<key>_properties</key>
+		<dict>
+			<key>_name</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>1</string>
+			</dict>
+			<key>description</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>0</string>
+			</dict>
+			<key>lastModified</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>3</string>
+			</dict>
+			<key>path</key>
+			<dict>
+				<key>_order</key>
+				<string>4</string>
+			</dict>
+			<key>size</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>2</string>
+			</dict>
+		</dict>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:50Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPLogsReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>_dataType</key>
+		<string>Hosts</string>
+		<key>_detailLevel</key>
+		<string>0</string>
+		<key>_items</key>
+		<array>
+			<dict>
+				<key>Contents</key>
+				<string># Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+</string>
+				<key>Last Modified</key>
+				<date>2018-06-04T18:24:14Z</date>
+				<key>Path</key>
+				<string>C:\WINDOWS\system32\drivers\etc\hosts</string>
+				<key>Size</key>
+				<integer>824</integer>
+				<key>_name</key>
+				<string>Hosts File</string>
+			</dict>
+		</array>
+		<key>_parentDataType</key>
+		<string>SPSoftwareDataType</string>
+		<key>_properties</key>
+		<dict>
+			<key>Last Modified</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>2</string>
+			</dict>
+			<key>Path</key>
+			<dict>
+				<key>_order</key>
+				<string>3</string>
+			</dict>
+			<key>Size</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>1</string>
+			</dict>
+			<key>_name</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>0</string>
+			</dict>
+		</dict>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:51Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPHosts FileReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>_dataType</key>
+		<string>iTunes</string>
+		<key>_detailLevel</key>
+		<string>-1</string>
+		<key>_items</key>
+		<array>
+			<dict>
+				<key>Apple Mobile Device Driver</key>
+				<string>1.67.0.0</string>
+				<key>Apple Mobile Device Driver Status</key>
+				<string>Successfully installed.</string>
+				<key>Bonjour</key>
+				<string>3.0.0.2 (333.10)</string>
+				<key>Core Media</key>
+				<string>Yes</string>
+				<key>Gracenote DSP</key>
+				<string>3.06.1.3084</string>
+				<key>Gracenote MusicID</key>
+				<string>3.06.1.3084</string>
+				<key>Gracenote SDK</key>
+				<string>3.06.1.3084</string>
+				<key>Gracenote Submit</key>
+				<string>3.06.1.3084</string>
+				<key>Running Elevated</key>
+				<string>No</string>
+				<key>Running as Admin</key>
+				<string>No</string>
+				<key>Safe Mode</key>
+				<string>No</string>
+				<key>WebKit Accelerated Compositing</key>
+				<string>No</string>
+				<key>_name</key>
+				<string>Overview</string>
+				<key>iTunes Version</key>
+				<string>12.7.5.9</string>
+			</dict>
+		</array>
+		<key>_properties</key>
+		<dict/>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:51Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPiTunesReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>_dataType</key>
+		<string>Optical</string>
+		<key>_detailLevel</key>
+		<string>0</string>
+		<key>_items</key>
+		<array>
+			<dict>
+				<key>Burn Error</key>
+				<string>No burn errors reported.</string>
+				<key>CD Text on Burn</key>
+				<string>No</string>
+				<key>Error Correction on Import</key>
+				<string>Yes</string>
+				<key>Force Optical Power Calibration</key>
+				<string>No</string>
+				<key>_name</key>
+				<string>Importing and Burning Settings Overview</string>
+			</dict>
+		</array>
+		<key>_parentDataType</key>
+		<string>iTunes</string>
+		<key>_properties</key>
+		<dict/>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:51Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPOpticalReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>_dataType</key>
+		<string>Network</string>
+		<key>_detailLevel</key>
+		<string>0</string>
+		<key>_items</key>
+		<array>
+			<dict>
+				<key>Connection to Apple web site</key>
+				<string>Success</string>
+				<key>Connection to Gracenote server</key>
+				<string>Success</string>
+				<key>Connection to browsing iTunes store</key>
+				<string>Success</string>
+				<key>Connection to firmware update server</key>
+				<string>Success</string>
+				<key>Connection to iPhone activation server</key>
+				<string>Success</string>
+				<key>Connection to purchasing from iTunes store</key>
+				<string>Success</string>
+				<key>Last Successful Store Access</key>
+				<string>2018-06-21 21:44:36</string>
+				<key>_name</key>
+				<string>Store Access Overview</string>
+			</dict>
+		</array>
+		<key>_parentDataType</key>
+		<string>iTunes</string>
+		<key>_properties</key>
+		<dict/>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:51Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPNetworkReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>_dataType</key>
+		<string>HDCP</string>
+		<key>_detailLevel</key>
+		<string>0</string>
+		<key>_items</key>
+		<array>
+			<dict>
+				<key>HDCP Supported</key>
+				<string>Yes</string>
+				<key>_name</key>
+				<string>Overview</string>
+			</dict>
+			<dict>
+				<key>_items</key>
+				<array>
+					<dict>
+						<key>Name</key>
+						<string>\\.\DISPLAY1</string>
+						<key>Primary Monitor</key>
+						<string>Yes</string>
+						<key>Rectangle</key>
+						<string>0 0 1050 1680</string>
+						<key>Video Outputs</key>
+						<array>
+							<dict>
+								<key>Connector Type</key>
+								<string>OPM_CONNECTOR_TYPE_DVI</string>
+								<key>HDCP Enabled</key>
+								<string>Yes</string>
+								<key>Internal Output</key>
+								<string>No</string>
+								<key>Last HDCP Error</key>
+								<string>S_OK</string>
+								<key>Supported Protection Types</key>
+								<string>OPM_PROTECTION_TYPE_HDCP</string>
+								<key>Supports HDCP</key>
+								<string>Yes</string>
+								<key>Use DPCP</key>
+								<string>No</string>
+								<key>_name</key>
+								<string>Video Output 1</string>
+							</dict>
+						</array>
+						<key>_name</key>
+						<string>Monitor 1</string>
+					</dict>
+				</array>
+				<key>_name</key>
+				<string>Monitors</string>
+			</dict>
+		</array>
+		<key>_parentDataType</key>
+		<string>iTunes</string>
+		<key>_properties</key>
+		<dict/>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:51Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPHDCPReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>_dataType</key>
+		<string>iPod</string>
+		<key>_detailLevel</key>
+		<string>0</string>
+		<key>_items</key>
+		<array/>
+		<key>_parentDataType</key>
+		<string>iTunes</string>
+		<key>_properties</key>
+		<dict>
+			<key>Last Connected</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_isOutlineColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>1</string>
+			</dict>
+			<key>Model Name</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_isOutlineColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>0</string>
+			</dict>
+		</dict>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:52Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPiPodReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>_dataType</key>
+		<string>iPhone</string>
+		<key>_detailLevel</key>
+		<string>0</string>
+		<key>_items</key>
+		<array>
+			<dict>
+				<key>Family ID</key>
+				<integer>10036</integer>
+				<key>Firmware Version</key>
+				<string>11.4</string>
+				<key>IMEI</key>
+				<string>352087071992938</string>
+				<key>Last Connected</key>
+				<string>2018-06-21 13:36:06</string>
+				<key>Model Name</key>
+				<string>iPhone 5s (CDMA)</string>
+				<key>Serial Number</key>
+				<string>DX3QV004FRC7</string>
+			</dict>
+		</array>
+		<key>_parentDataType</key>
+		<string>iTunes</string>
+		<key>_properties</key>
+		<dict>
+			<key>Last Connected</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_isOutlineColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>1</string>
+			</dict>
+			<key>Model Name</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_isOutlineColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>0</string>
+			</dict>
+		</dict>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:52Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPiPhoneReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>_dataType</key>
+		<string>iPad</string>
+		<key>_detailLevel</key>
+		<string>0</string>
+		<key>_items</key>
+		<array/>
+		<key>_parentDataType</key>
+		<string>iTunes</string>
+		<key>_properties</key>
+		<dict>
+			<key>Last Connected</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_isOutlineColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>1</string>
+			</dict>
+			<key>Model Name</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_isOutlineColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>0</string>
+			</dict>
+		</dict>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:52Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPiPadReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>_dataType</key>
+		<string>Plug-ins</string>
+		<key>_detailLevel</key>
+		<string>0</string>
+		<key>_items</key>
+		<array/>
+		<key>_parentDataType</key>
+		<string>iTunes</string>
+		<key>_properties</key>
+		<dict>
+			<key>Loaded</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_isOutlineColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>2</string>
+			</dict>
+			<key>Name</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_isOutlineColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>0</string>
+			</dict>
+			<key>Version</key>
+			<dict>
+				<key>_isColumn</key>
+				<string>YES</string>
+				<key>_isOutlineColumn</key>
+				<string>YES</string>
+				<key>_order</key>
+				<string>1</string>
+			</dict>
+		</dict>
+		<key>_timeStamp</key>
+		<date>2018-06-21T13:51:52Z</date>
+		<key>_versionInfo</key>
+		<dict>
+			<key>com.apple.SystemProfiler.SPPlug-insReporter</key>
+			<string>1.0.0</string>
+		</dict>
+	</dict>
+</array>
+</plist>
